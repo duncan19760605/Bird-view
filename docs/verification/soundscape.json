@@ -1,0 +1,104 @@
+
+{
+  "ok": true,
+  "checks": [
+    {
+      "name": "decode black-winged-stilt",
+      "ok": true,
+      "duration": 8.289520833333333
+    },
+    {
+      "name": "decode eurasian-tree-sparrow",
+      "ok": true,
+      "duration": 11
+    },
+    {
+      "name": "decode coal-tit",
+      "ok": true,
+      "duration": 11.9886875
+    },
+    {
+      "name": "decode light-vented-bulbul",
+      "ok": true,
+      "duration": 2.76
+    },
+    {
+      "name": "decode spotted-dove",
+      "ok": true,
+      "duration": 10.7015
+    },
+    {
+      "name": "species coverage level 1",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 2",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 3",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 4",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 5",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 6",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 7",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 8",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 9",
+      "ok": true
+    },
+    {
+      "name": "species coverage level 10",
+      "ok": true
+    },
+    {
+      "name": "recording fetch started",
+      "ok": true
+    },
+    {
+      "name": "exit during loading prevents stale playback",
+      "ok": true
+    },
+    {
+      "name": "recording plays in forest level",
+      "ok": true
+    },
+    {
+      "name": "mute stops active recording",
+      "ok": true
+    },
+    {
+      "name": "rapid switch starts new level",
+      "ok": true
+    },
+    {
+      "name": "rapid switch has one new recording",
+      "ok": true
+    },
+    {
+      "name": "leave stops recording",
+      "ok": true
+    },
+    {
+      "name": "missing file uses synthesized fallback",
+      "ok": true
+    }
+  ],
+  "hardwareAcceptance": "UNTESTED"
+}

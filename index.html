@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>走，賞鳥趣</title>
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/game.css">
+<link rel="stylesheet" href="css/dex.css">
+</head>
+<body>
+<div class="rotate-hint"><div><b><span data-i18n="請將裝置轉為橫向">請將裝置轉為橫向</span></b><span data-i18n="「走，賞鳥趣」以 16:9 橫幅設計">「走，賞鳥趣」以 16:9 橫幅設計</span><br><span data-i18n="手機／平板／電視橫放即可開始賞鳥">手機／平板／電視橫放即可開始賞鳥</span></div></div>
+
+<div class="stage" id="stage">
+
+  <!-- ===== 關卡選單 ===== -->
+  <section class="screen" id="screen-menu">
+    <div class="menu-wrap">
+      <h1 class="brand"><span data-i18n="走，賞鳥趣">走，賞鳥趣</span></h1>
+      <p class="brand-sub"><span data-i18n="九宮格操作 · 12346789 · 10 個關卡">九宮格操作 · 12346789 · 10 個關卡</span></p>
+
+      <div class="style-switch">
+        <span><span data-i18n="畫面風格">畫面風格</span></span>
+        <button class="chip" data-style="realistic"><span data-i18n="寫實攝影">寫實攝影</span></button>
+        <button class="chip" data-style="pencil"><span data-i18n="彩繪鉛筆">彩繪鉛筆</span></button>
+        <span class="sep"></span>
+        <span><span data-i18n="聲音">聲音</span></span>
+        <label class="vol"><span data-i18n="音樂">音樂</span> <input type="range" id="volMusic" min="0" max="100" step="5"> <output id="volMusicOut"></output></label>
+        <label class="vol"><span data-i18n="鳥鳴">鳥鳴</span> <input type="range" id="volNature" min="0" max="100" step="5"> <output id="volNatureOut"></output></label>
+        <a href="assets/bird-calls/CREDITS.html" target="_blank" rel="noopener" style="font-size:12px;color:inherit"><span data-i18n="鳥鳴來源與授權 ↗">鳥鳴來源與授權 ↗</span></a>
+      </div>
+      <div class="style-switch control-switch">
+        <span><span data-i18n="操控方式">操控方式</span></span>
+        <button class="chip" data-ctl="mat"><span data-i18n="地墊（超聲波）">地墊（超聲波）</span></button>
+        <button class="chip" data-ctl="touch"><span data-i18n="觸控螢幕">觸控螢幕</span></button>
+        <button class="chip" data-ctl="keyboard"><span data-i18n="鍵盤">鍵盤</span></button>
+        <span class="sep"></span>
+        <button class="chip" id="btnCal"><span data-i18n="收音設定與校正">收音設定與校正</span></button>
+        <span class="ctl-status" id="ctlStatus"></span>
+      </div>
+
+      <div class="level-grid" id="levelGrid"></div>
+
+      <div class="menu-actions">
+        <button class="btn" id="btnSettings"><span data-i18n="設定（1）">設定（1）</span></button>
+        <button class="btn" id="btnDex"><span data-i18n="我的賞鳥圖鑑">我的賞鳥圖鑑</span></button>
+        <button class="btn ghost" id="btnReset"><span data-i18n="重設進度">重設進度</span></button>
+      </div>
+      <p class="menu-foot" id="menuFoot"></p>
+    </div>
+  </section>
+
+  <section class="screen" id="screen-settings" hidden>
+    <div class="settings-wrap">
+      <h2><span data-i18n="設定">設定</span></h2>
+      <h3><span data-i18n="語言">語言</span></h3>
+      <p><span data-i18n="選擇顯示語言。套用後會重新載入，圖鑑與遊戲進度會保留。">選擇顯示語言。套用後會重新載入，圖鑑與遊戲進度會保留。</span></p>
+      <div class="language-choices" id="languageChoices" role="group" aria-label="語言" data-i18n-label="語言"></div>
+      <p><span data-i18n="2／4／6／8 選擇，9 套用，3 返回">2／4／6／8 選擇，9 套用，3 返回</span></p>
+      <button class="btn" id="btnSettingsBack"><span data-i18n="返回選單（3）">返回選單（3）</span></button>
+    </div>
+  </section>
+
+  <!-- ===== 遊戲畫面 ===== -->
+  <section class="screen" id="screen-game" hidden>
+    <div class="game">
+      <!-- 左：肉眼影像 80% -->
+      <div class="eye" id="eye">
+        <div class="scene" id="scene">
+          <img class="scene-img" id="sceneImg" alt="">
+          <div class="bird-layer" id="birdLayer"></div>
+          <div class="reticle" id="reticle"><i></i></div>
+        </div>
+        <div class="hud-top" id="hudTop"></div>
+        <div class="mic-ind" id="micInd" hidden title="麥克風控制中" data-i18n-title="麥克風控制中">🎤</div>
+        <div class="hud-hint" id="hudHint"></div>
+        <div class="toast" id="toast" hidden></div>
+        <div class="flash" id="flash"></div>
+      </div>
+
+      <!-- 右：望遠視野 + 操作 20% -->
+      <aside class="panel">
+        <div class="scope-box">
+          <div class="lens" id="lens">
+            <div class="lens-view" id="lensView"></div>
+            <div class="lens-birds" id="lensBirds"></div>
+            <div class="cross"></div>
+            <div class="lens-grid" id="lensGrid"></div>
+          </div>
+        </div>
+        <div class="readout">
+          <div class="r-device" id="rDevice"><span data-i18n="手機">手機</span></div>
+          <div class="r-zoom" id="rZoom">1.0X</div>
+          <div class="r-res" id="rRes"><span data-i18n="光學 · 高解析">光學 · 高解析</span></div>
+          <div class="r-progress" id="rProgress"><span data-i18n="0 / 5 種">0 / 5 種</span></div>
+          <div class="r-xy" id="rXY">—</div>
+        </div>
+        <div class="stay" id="stay" hidden>
+          <div class="s-head"><b id="stayName"></b><span class="s-time" id="stayTime"></span></div>
+          <div class="s-act" id="stayAct"></div>
+          <div class="s-bar"><i id="stayBar"></i></div>
+        </div>
+        <p class="keypad-cap" id="keypadCap"></p>
+        <div class="keypad" id="keypad">
+          <button class="key" data-k="1">1<small><span data-i18n="縮小">縮小</span></small></button>
+          <button class="key" data-k="2">2<small><span data-i18n="上移">上移</span></small></button>
+          <button class="key" data-k="3">3<small><span data-i18n="退出">退出</span></small></button>
+          <button class="key" data-k="4">4<small><span data-i18n="左移">左移</span></small></button>
+          <button class="key off" data-k="5">5<small><span data-i18n="休息">休息</span></small></button>
+          <button class="key" data-k="6">6<small><span data-i18n="右移">右移</span></small></button>
+          <button class="key" data-k="7">7<small><span data-i18n="放大">放大</span></small></button>
+          <button class="key" data-k="8">8<small><span data-i18n="下移">下移</span></small></button>
+          <button class="key" data-k="9">9<small><span data-i18n="攝影">攝影</span></small></button>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===== 圖鑑 ===== -->
+  <section class="screen" id="screen-dex" hidden>
+    <div class="dex-wrap">
+      <header class="dex-head">
+        <h2><span data-i18n="我的賞鳥圖鑑">我的賞鳥圖鑑</span></h2>
+        <div class="tabs">
+          <button class="chip active" data-tab="birds"><span data-i18n="鳥類紀錄">鳥類紀錄</span></button>
+          <button class="chip" data-tab="landscape"><span data-i18n="風景攝影區">風景攝影區</span></button>
+        </div>
+        <button class="btn ghost" id="btnDexBack"><span data-i18n="返回（3）">返回（3）</span></button>
+      </header>
+      <div class="dex-body" id="dexBody"></div>
+    </div>
+  </section>
+
+  <!-- ===== 收音 Setup（頻率設定與校正） ===== -->
+  <section class="screen" id="screen-audio" hidden>
+    <div class="cal-wrap">
+      <header class="cal-head">
+        <h2><span data-i18n="收音設定與校正">收音設定與校正</span></h2>
+        <p><span data-i18n="在實際遊玩的位置按「一鍵引導校正」：先站在 5 號做 10 秒背景校正，再依提示逐格踩 1 2 3 4 6 7 8 9，完成後自動套用每一格的閾值。換麥克風、位置或場地後請重新校正。">在實際遊玩的位置按「一鍵引導校正」：先站在 5 號做 10 秒背景校正，再依提示逐格踩 1 2 3 4 6 7 8 9，完成後自動套用每一格的閾值。換麥克風、位置或場地後請重新校正。</span></p>
+      </header>
+      <div class="cal-main">
+        <div class="cal-left">
+          <div class="rx-row">
+            <select id="rxDevice"></select>
+          </div>
+          <p class="rx-rate"><span id="rxStatus" data-s="idle"><span data-i18n="未收音">未收音</span></span>　<span id="rxRate"></span></p>
+          <div class="cal-pad" id="rxPad"></div>
+          <div class="cal-progress"><i id="rxBar"></i></div>
+          <p class="cal-msg" id="rxMsg"></p>
+          <div class="cal-actions">
+            <button class="btn" id="btnRxGuided"><span data-i18n="一鍵引導校正（9）">一鍵引導校正（9）</span></button>
+            <button class="btn" id="btnRxRetry" hidden><span data-i18n="只重踩失敗的格子">只重踩失敗的格子</span></button>
+            <button class="btn ghost" id="btnRxBack"><span data-i18n="返回選單（3）">返回選單（3）</span></button>
+          </div>
+        </div>
+        <div class="cal-right">
+          <div class="rx-summary" id="rxSummary"></div>
+          <details class="rx-adv" id="rxAdv">
+            <summary><span data-i18n="進階：分步校正與頻道參數">進階：分步校正與頻道參數</span></summary>
+            <div class="cal-actions">
+              <button class="btn ghost" id="btnRxStart"><span data-i18n="① 開啟收音">① 開啟收音</span></button>
+              <button class="btn ghost" id="btnRxCal"><span data-i18n="② 背景校正 10 秒">② 背景校正 10 秒</span></button>
+              <button class="btn ghost" id="btnRxSteps"><span data-i18n="③ 逐格踩踏檢查">③ 逐格踩踏檢查</span></button>
+              <button class="btn ghost" id="btnRxApply"><span data-i18n="④ 套用建議">④ 套用建議</span></button>
+            </div>
+            <div class="rx-global">
+              <label><span data-i18n="全域倍率">全域倍率</span> <input type="number" id="rxGlobal" step="0.5" min="0.1" max="1000"></label>
+              <label><span data-i18n="半頻寬 Hz">半頻寬 Hz</span> <input type="number" id="rxBand" step="5" min="5" max="200"></label>
+              <label>FFT <select id="rxFft"><option>2048</option><option>4096</option><option>8192</option></select></label>
+              <label><span data-i18n="放開確認 ms">放開確認 ms</span> <input type="number" id="rxRelease" step="10" min="0" max="2000"></label>
+              <span id="rxConflicts" class="dim"></span>
+            </div>
+            <div class="cal-table" id="rxTable"></div>
+            <div class="cal-actions">
+              <button class="btn ghost" id="btnRxRecord"><span data-i18n="開始監測錄製">開始監測錄製</span></button>
+              <button class="btn ghost" id="btnRxExport"><span data-i18n="匯出設定">匯出設定</span></button>
+              <button class="btn ghost" id="btnRxImport"><span data-i18n="匯入設定">匯入設定</span></button>
+              <button class="btn ghost" id="btnRxReset"><span data-i18n="恢復預設">恢復預設</span></button>
+              <input type="file" id="rxImportFile" accept=".json,application/json" hidden>
+            </div>
+          </details>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 開局背景校正 ===== -->
+  <div class="cal-overlay" id="calOverlay" hidden>
+    <div class="cal-ov-card">
+      <h3 id="calOvTitle"><span data-i18n="背景校正">背景校正</span></h3>
+      <p id="calOvMsg"><span data-i18n="請站在 5 號休息區，不要踩踏地墊…">請站在 5 號休息區，不要踩踏地墊…</span></p>
+      <div class="cal-progress"><i id="calOvBar"></i></div>
+    </div>
+  </div>
+
+  <!-- ===== 對話框 ===== -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-card">
+      <h3 id="modalTitle"></h3>
+      <div id="modalBody"></div>
+      <div class="modal-actions" id="modalActions"></div>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

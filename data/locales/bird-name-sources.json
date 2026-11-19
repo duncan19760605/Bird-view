@@ -1,0 +1,1285 @@
+{
+  "retrieved": "2026-11-07",
+  "source": "Wikipedia scientific-name redirects and Wikidata labels; labels are CC0",
+  "birds": {
+    "eurasian-tree-sparrow": {
+      "scientificName": "Passer montanus",
+      "englishName": "Eurasian Tree Sparrow",
+      "wikiTitle": "Eurasian tree sparrow",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+      "wikidata": "Q25968",
+      "labels": {
+        "ko": "참새",
+        "ja": "スズメ",
+        "zh-cn": "麻雀"
+      }
+    },
+    "light-vented-bulbul": {
+      "scientificName": "Pycnonotus sinensis",
+      "englishName": "Light-vented Bulbul",
+      "wikiTitle": "Light-vented bulbul",
+      "sourcePage": "https://en.wikipedia.org/wiki/Light-vented_bulbul",
+      "wikidata": "Q1061015",
+      "labels": {
+        "ja": "シロガシラ",
+        "ko": "검은이마직박구리",
+        "zh-cn": "白头鹎"
+      }
+    },
+    "swinhoes-white-eye": {
+      "scientificName": "Zosterops simplex",
+      "englishName": "Swinhoe's White-eye",
+      "wikiTitle": "Swinhoe's white-eye",
+      "sourcePage": "https://en.wikipedia.org/wiki/Swinhoe%27s_white-eye",
+      "wikidata": "Q40660989",
+      "labels": {
+        "zh-cn": "暗绿绣眼鸟"
+      }
+    },
+    "black-crowned-night-heron": {
+      "scientificName": "Nycticorax nycticorax",
+      "englishName": "Black-crowned Night Heron",
+      "wikiTitle": "Black-crowned night heron",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
+      "wikidata": "Q126216",
+      "labels": {
+        "zh-cn": "夜鹭",
+        "ko": "해오라기",
+        "ja": "ゴイサギ"
+      }
+    },
+    "little-egret": {
+      "scientificName": "Egretta garzetta",
+      "englishName": "Little Egret",
+      "wikiTitle": "Little egret",
+      "sourcePage": "https://en.wikipedia.org/wiki/Little_egret",
+      "wikidata": "Q131709",
+      "labels": {
+        "zh-cn": "白鹭",
+        "ja": "コサギ",
+        "ko": "쇠백로"
+      }
+    },
+    "taiwan-barbet": {
+      "scientificName": "Psilopogon nuchalis",
+      "englishName": "Taiwan Barbet",
+      "wikiTitle": "Taiwan barbet",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_barbet",
+      "wikidata": "Q27074855",
+      "labels": {}
+    },
+    "grey-treepie": {
+      "scientificName": "Dendrocitta formosae",
+      "englishName": "Grey Treepie",
+      "wikiTitle": "Grey treepie",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey_treepie",
+      "wikidata": "Q1589793",
+      "labels": {
+        "ja": "タイワンオナガ",
+        "zh-cn": "灰树鹊"
+      }
+    },
+    "oriental-magpie": {
+      "scientificName": "Pica serica",
+      "englishName": "Oriental Magpie",
+      "wikiTitle": "Oriental magpie",
+      "sourcePage": "https://en.wikipedia.org/wiki/Oriental_magpie",
+      "wikidata": "Q1133750",
+      "labels": {
+        "ko": "한국까치",
+        "ja": "カササギ",
+        "zh-cn": "喜鹊"
+      }
+    },
+    "black-bulbul": {
+      "scientificName": "Hypsipetes leucocephalus",
+      "englishName": "Black Bulbul",
+      "wikiTitle": "Black bulbul",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black_bulbul",
+      "wikidata": "Q998240",
+      "labels": {
+        "ja": "シロガシラクロヒヨドリ",
+        "zh-cn": "黑短脚鹎"
+      }
+    },
+    "spotted-dove": {
+      "scientificName": "Spilopelia chinensis",
+      "englishName": "Spotted Dove",
+      "wikiTitle": "Spotted dove",
+      "sourcePage": "https://en.wikipedia.org/wiki/Spotted_dove",
+      "wikidata": "Q116686",
+      "labels": {
+        "zh-cn": "珠颈斑鸠",
+        "ja": "カノコバト",
+        "ko": "목점박이비둘기"
+      }
+    },
+    "taiwan-blue-magpie": {
+      "scientificName": "Urocissa caerulea",
+      "englishName": "Taiwan Blue Magpie",
+      "wikiTitle": "Taiwan blue magpie",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_blue_magpie",
+      "wikidata": "Q94533",
+      "labels": {
+        "zh-cn": "台湾蓝鹊",
+        "ja": "ヤマムスメ",
+        "ko": "파랑까치"
+      }
+    },
+    "taiwan-yuhina": {
+      "scientificName": "Yuhina brunneiceps",
+      "englishName": "Taiwan Yuhina",
+      "wikiTitle": "Taiwan yuhina",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_yuhina",
+      "wikidata": "Q716314",
+      "labels": {
+        "ja": "カンムリチメドリ"
+      }
+    },
+    "white-eared-sibia": {
+      "scientificName": "Heterophasia auricularis",
+      "englishName": "White-eared Sibia",
+      "wikiTitle": "White-eared sibia",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-eared_sibia",
+      "wikidata": "Q2669765",
+      "labels": {
+        "ja": "ミミジロチメドリ"
+      }
+    },
+    "taiwan-liocichla": {
+      "scientificName": "Liocichla steerii",
+      "englishName": "Taiwan Liocichla",
+      "wikiTitle": "Taiwan liocichla",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_liocichla",
+      "wikidata": "Q2668217",
+      "labels": {
+        "ja": "ヤブドリ"
+      }
+    },
+    "green-backed-tit": {
+      "scientificName": "Parus monticolus",
+      "englishName": "Green-backed Tit",
+      "wikiTitle": "Green-backed tit",
+      "sourcePage": "https://en.wikipedia.org/wiki/Green-backed_tit",
+      "wikidata": "Q500024",
+      "labels": {
+        "ja": "キバラシジュウカラ",
+        "zh-cn": "绿背山雀"
+      }
+    },
+    "taiwan-barwing": {
+      "scientificName": "Actinodura morrisoniana",
+      "englishName": "Taiwan Barwing",
+      "wikiTitle": "Taiwan barwing",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_barwing",
+      "wikidata": "Q1585874",
+      "labels": {
+        "ja": "シマドリ",
+        "zh-cn": "台湾斑翅鹛"
+      }
+    },
+    "flamecrest": {
+      "scientificName": "Regulus goodfellowi",
+      "englishName": "Flamecrest",
+      "wikiTitle": "Flamecrest",
+      "sourcePage": "https://en.wikipedia.org/wiki/Flamecrest",
+      "wikidata": "Q716252",
+      "labels": {
+        "ja": "ニイタカキクイタダキ",
+        "zh-cn": "台湾戴菊"
+      }
+    },
+    "collared-bush-robin": {
+      "scientificName": "Tarsiger johnstoniae",
+      "englishName": "Collared Bush Robin",
+      "wikiTitle": "Collared bush robin",
+      "sourcePage": "https://en.wikipedia.org/wiki/Collared_bush_robin",
+      "wikidata": "Q277514",
+      "labels": {
+        "ja": "アリサンヒタキ"
+      }
+    },
+    "taiwan-laughingthrush": {
+      "scientificName": "Trochalopteron morrisonianum",
+      "englishName": "Taiwan Laughingthrush",
+      "wikiTitle": "White-whiskered laughingthrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-whiskered_laughingthrush",
+      "wikidata": "Q27075532",
+      "labels": {
+        "ja": "タイワンキンバネガビチョウ"
+      }
+    },
+    "malayan-night-heron": {
+      "scientificName": "Gorsachius melanolophus",
+      "englishName": "Malayan Night Heron",
+      "wikiTitle": "Malayan night heron",
+      "sourcePage": "https://en.wikipedia.org/wiki/Malayan_night_heron",
+      "wikidata": "Q764171",
+      "labels": {
+        "ja": "ズグロミゾゴイ",
+        "zh-cn": "黑冠鳽"
+      }
+    },
+    "common-moorhen": {
+      "scientificName": "Gallinula chloropus",
+      "englishName": "Common Moorhen",
+      "wikiTitle": "Common moorhen",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_moorhen",
+      "wikidata": "Q18847",
+      "labels": {
+        "ja": "バン",
+        "ko": "쇠물닭",
+        "zh-cn": "黑水鸡"
+      }
+    },
+    "crested-goshawk": {
+      "scientificName": "Accipiter trivirgatus",
+      "englishName": "Crested Goshawk",
+      "wikiTitle": "Crested goshawk",
+      "sourcePage": "https://en.wikipedia.org/wiki/Crested_goshawk",
+      "wikidata": "Q795570",
+      "labels": {
+        "ja": "カンムリオオタカ",
+        "zh-cn": "凤头鹰",
+        "ko": "도가머리참매"
+      }
+    },
+    "black-faced-spoonbill": {
+      "scientificName": "Platalea minor",
+      "englishName": "Black-faced Spoonbill",
+      "wikiTitle": "Black-faced spoonbill",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-faced_spoonbill",
+      "wikidata": "Q494544",
+      "labels": {
+        "ko": "저어새",
+        "ja": "クロツラヘラサギ",
+        "zh-cn": "黑脸琵鹭"
+      }
+    },
+    "grey-heron": {
+      "scientificName": "Ardea cinerea",
+      "englishName": "Grey Heron",
+      "wikiTitle": "Grey heron",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey_heron",
+      "wikidata": "Q25273",
+      "labels": {
+        "ko": "왜가리",
+        "ja": "アオサギ",
+        "zh-cn": "苍鹭"
+      }
+    },
+    "black-winged-stilt": {
+      "scientificName": "Himantopus himantopus",
+      "englishName": "Black-winged Stilt",
+      "wikiTitle": "Black-winged stilt",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-winged_stilt",
+      "wikidata": "Q178821",
+      "labels": {
+        "zh-cn": "黑翅长脚鹬",
+        "ja": "セイタカシギ",
+        "ko": "장다리물떼새"
+      }
+    },
+    "little-ringed-plover": {
+      "scientificName": "Charadrius dubius",
+      "englishName": "Little Ringed Plover",
+      "wikiTitle": "Little ringed plover",
+      "sourcePage": "https://en.wikipedia.org/wiki/Little_ringed_plover",
+      "wikidata": "Q18851",
+      "labels": {
+        "ko": "꼬마물떼새",
+        "ja": "コチドリ",
+        "zh-cn": "金眶鸻"
+      }
+    },
+    "spot-billed-duck": {
+      "scientificName": "Anas zonorhyncha",
+      "englishName": "Eastern Spot-billed Duck",
+      "wikiTitle": "Eastern spot-billed duck",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eastern_spot-billed_duck",
+      "wikidata": "Q1268169",
+      "labels": {
+        "ja": "カルガモ",
+        "zh-cn": "斑嘴鸭",
+        "ko": "흰뺨검둥오리"
+      }
+    },
+    "northern-pintail": {
+      "scientificName": "Anas acuta",
+      "englishName": "Northern Pintail",
+      "wikiTitle": "Northern pintail",
+      "sourcePage": "https://en.wikipedia.org/wiki/Northern_pintail",
+      "wikidata": "Q25450",
+      "labels": {
+        "ko": "고방오리",
+        "ja": "オナガガモ",
+        "zh-cn": "针尾鸭"
+      }
+    },
+    "northern-shoveler": {
+      "scientificName": "Spatula clypeata",
+      "englishName": "Northern Shoveler",
+      "wikiTitle": "Northern shoveler",
+      "sourcePage": "https://en.wikipedia.org/wiki/Northern_shoveler",
+      "wikidata": "Q28106731",
+      "labels": {
+        "ko": "넓적부리",
+        "ja": "ハシビロガモ",
+        "zh-cn": "琵嘴鸭"
+      }
+    },
+    "osprey": {
+      "scientificName": "Pandion haliaetus",
+      "englishName": "Osprey",
+      "wikiTitle": "Osprey",
+      "sourcePage": "https://en.wikipedia.org/wiki/Osprey",
+      "wikidata": "Q25332",
+      "labels": {
+        "ko": "물수리",
+        "ja": "ミサゴ",
+        "zh-cn": "鹗"
+      }
+    },
+    "plain-prinia": {
+      "scientificName": "Prinia inornata",
+      "englishName": "Plain Prinia",
+      "wikiTitle": "Plain prinia",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plain_prinia",
+      "wikidata": "Q73928",
+      "labels": {
+        "ja": "アジアマミハウチワドリ",
+        "zh-cn": "纯色山鹪莺"
+      }
+    },
+    "taiwan-scimitar-babbler": {
+      "scientificName": "Pomatorhinus musicus",
+      "englishName": "Taiwan Scimitar Babbler",
+      "wikiTitle": "Taiwan scimitar babbler",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_scimitar_babbler",
+      "wikidata": "Q1310940",
+      "labels": {
+        "ja": "タイワンヒメマルハシ"
+      }
+    },
+    "black-kite": {
+      "scientificName": "Milvus migrans",
+      "englishName": "Black Kite",
+      "wikiTitle": "Black kite",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black_kite",
+      "wikidata": "Q80362",
+      "labels": {
+        "ko": "솔개",
+        "ja": "トビ",
+        "zh-cn": "黑鸢"
+      }
+    },
+    "brown-shrike": {
+      "scientificName": "Lanius cristatus",
+      "englishName": "Brown Shrike",
+      "wikiTitle": "Brown shrike",
+      "sourcePage": "https://en.wikipedia.org/wiki/Brown_shrike",
+      "wikidata": "Q790616",
+      "labels": {
+        "ja": "アカモズ",
+        "ko": "노랑때까치",
+        "zh-cn": "红尾伯劳"
+      }
+    },
+    "eastern-yellow-wagtail": {
+      "scientificName": "Motacilla tschutschensis",
+      "englishName": "Eastern Yellow Wagtail",
+      "wikiTitle": "Eastern yellow wagtail",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eastern_yellow_wagtail",
+      "wikidata": "Q4810698",
+      "labels": {
+        "ja": "ズアオツメナガセキレイ",
+        "ko": "긴발톱할미새",
+        "zh-cn": "东方黄鹡鸰"
+      }
+    },
+    "eurasian-coot": {
+      "scientificName": "Fulica atra",
+      "englishName": "Eurasian Coot",
+      "wikiTitle": "Eurasian coot",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_coot",
+      "wikidata": "Q25376",
+      "labels": {
+        "ja": "オオバン",
+        "ko": "물닭",
+        "zh-cn": "白骨顶"
+      }
+    },
+    "eurasian-teal": {
+      "scientificName": "Anas crecca",
+      "englishName": "Eurasian Teal",
+      "wikiTitle": "Eurasian teal",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_teal",
+      "wikidata": "Q25700",
+      "labels": {
+        "ko": "쇠오리",
+        "ja": "コガモ",
+        "zh-cn": "绿翅鸭"
+      }
+    },
+    "grey-faced-buzzard": {
+      "scientificName": "Butastur indicus",
+      "englishName": "Grey-faced Buzzard",
+      "wikiTitle": "Grey-faced buzzard",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey-faced_buzzard",
+      "wikidata": "Q1270171",
+      "labels": {
+        "ja": "サシバ",
+        "zh-cn": "灰脸鵟鹰",
+        "ko": "왕새매"
+      }
+    },
+    "wood-sandpiper": {
+      "scientificName": "Tringa glareola",
+      "englishName": "Wood Sandpiper",
+      "wikiTitle": "Wood sandpiper",
+      "sourcePage": "https://en.wikipedia.org/wiki/Wood_sandpiper",
+      "wikidata": "Q18837",
+      "labels": {
+        "ja": "タカブシギ",
+        "zh-cn": "林鹬",
+        "ko": "알락도요"
+      }
+    },
+    "white-winged-tern": {
+      "scientificName": "Chlidonias leucopterus",
+      "englishName": "White-winged Tern",
+      "wikiTitle": "White-winged tern",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-winged_tern",
+      "wikidata": "Q241753",
+      "labels": {
+        "ja": "ハジロクロハラアジサシ",
+        "zh-cn": "白翅浮鸥",
+        "ko": "흰죽지제비갈매기"
+      }
+    },
+    "great-egret": {
+      "scientificName": "Ardea alba",
+      "englishName": "Great Egret",
+      "wikiTitle": "Great egret",
+      "sourcePage": "https://en.wikipedia.org/wiki/Great_egret",
+      "wikidata": "Q130730",
+      "labels": {
+        "zh-cn": "大白鹭",
+        "ko": "대백로",
+        "ja": "ダイサギ"
+      }
+    },
+    "eurasian-spoonbill": {
+      "scientificName": "Platalea leucorodia",
+      "englishName": "Eurasian Spoonbill",
+      "wikiTitle": "Eurasian spoonbill",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_spoonbill",
+      "wikidata": "Q171360",
+      "labels": {
+        "zh-cn": "白琵鹭",
+        "ko": "노랑부리저어새",
+        "ja": "ヘラサギ"
+      }
+    },
+    "pied-avocet": {
+      "scientificName": "Recurvirostra avosetta",
+      "englishName": "Pied Avocet",
+      "wikiTitle": "Pied avocet",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pied_avocet",
+      "wikidata": "Q26147",
+      "labels": {
+        "ja": "ソリハシセイタカシギ",
+        "ko": "뒷부리장다리물떼새",
+        "zh-cn": "反嘴鹬"
+      }
+    },
+    "common-greenshank": {
+      "scientificName": "Tringa nebularia",
+      "englishName": "Common Greenshank",
+      "wikiTitle": "Common greenshank",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_greenshank",
+      "wikidata": "Q18840",
+      "labels": {
+        "ja": "アオアシシギ",
+        "zh-cn": "青脚鹬",
+        "ko": "청다리도요"
+      }
+    },
+    "common-redshank": {
+      "scientificName": "Tringa totanus",
+      "englishName": "Common Redshank",
+      "wikiTitle": "Common redshank",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_redshank",
+      "wikidata": "Q18859",
+      "labels": {
+        "ja": "アカアシシギ",
+        "ko": "붉은발도요",
+        "zh-cn": "红脚鹬"
+      }
+    },
+    "eurasian-curlew": {
+      "scientificName": "Numenius arquata",
+      "englishName": "Eurasian Curlew",
+      "wikiTitle": "Eurasian curlew",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_curlew",
+      "wikidata": "Q18854",
+      "labels": {
+        "ja": "ダイシャクシギ",
+        "ko": "마도요",
+        "zh-cn": "白腰杓鹬"
+      }
+    },
+    "eurasian-wigeon": {
+      "scientificName": "Mareca penelope",
+      "englishName": "Eurasian Wigeon",
+      "wikiTitle": "Eurasian wigeon",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_wigeon",
+      "wikidata": "Q28106837",
+      "labels": {
+        "ja": "ヒドリガモ",
+        "ko": "홍머리오리",
+        "zh-cn": "赤颈鸭"
+      }
+    },
+    "great-cormorant": {
+      "scientificName": "Phalacrocorax carbo",
+      "englishName": "Great Cormorant",
+      "wikiTitle": "Great cormorant",
+      "sourcePage": "https://en.wikipedia.org/wiki/Great_cormorant",
+      "wikidata": "Q25440",
+      "labels": {
+        "ja": "カワウ",
+        "ko": "민물가마우지",
+        "zh-cn": "普通鸬鹚"
+      }
+    },
+    "eastern-marsh-harrier": {
+      "scientificName": "Circus spilonotus",
+      "englishName": "Eastern Marsh Harrier",
+      "wikiTitle": "Eastern marsh harrier",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eastern_marsh_harrier",
+      "wikidata": "Q1269372",
+      "labels": {
+        "ja": "チュウヒ",
+        "ko": "개구리매",
+        "zh-cn": "白腹鹞"
+      }
+    },
+    "oriental-magpie-robin": {
+      "scientificName": "Copsychus saularis",
+      "englishName": "Oriental Magpie-Robin",
+      "wikiTitle": "Oriental magpie-robin",
+      "sourcePage": "https://en.wikipedia.org/wiki/Oriental_magpie-robin",
+      "wikidata": "Q266761",
+      "labels": {
+        "ja": "シキチョウ",
+        "ko": "까치딱새",
+        "zh-cn": "鹊鸲"
+      }
+    },
+    "swinhoes-pheasant": {
+      "scientificName": "Lophura swinhoii",
+      "englishName": "Swinhoe's Pheasant",
+      "wikiTitle": "Swinhoe's pheasant",
+      "sourcePage": "https://en.wikipedia.org/wiki/Swinhoe%27s_pheasant",
+      "wikidata": "Q715245",
+      "labels": {
+        "ko": "산계",
+        "ja": "サンケイ",
+        "zh-cn": "蓝腹鹇"
+      }
+    },
+    "mikado-pheasant": {
+      "scientificName": "Syrmaticus mikado",
+      "englishName": "Mikado Pheasant",
+      "wikiTitle": "Mikado pheasant",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mikado_pheasant",
+      "wikidata": "Q715266",
+      "labels": {
+        "ja": "ミカドキジ",
+        "zh-cn": "黑长尾雉",
+        "ko": "미카도꿩"
+      }
+    },
+    "taiwan-partridge": {
+      "scientificName": "Arborophila crudigularis",
+      "englishName": "Taiwan Partridge",
+      "wikiTitle": "Taiwan partridge",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_partridge",
+      "wikidata": "Q700608",
+      "labels": {
+        "ja": "ミヤマテッケイ",
+        "zh-cn": "台湾山鹧鸪"
+      }
+    },
+    "grey-cheeked-fulvetta": {
+      "scientificName": "Alcippe morrisonia",
+      "englishName": "Grey-cheeked Fulvetta",
+      "wikiTitle": "Grey-cheeked fulvetta",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey-cheeked_fulvetta",
+      "wikidata": "Q1441635",
+      "labels": {
+        "ja": "メジロチメドリ",
+        "zh-cn": "灰眶雀鹛"
+      }
+    },
+    "coal-tit": {
+      "scientificName": "Periparus ater",
+      "englishName": "Coal Tit",
+      "wikiTitle": "Coal tit",
+      "sourcePage": "https://en.wikipedia.org/wiki/Coal_tit",
+      "wikidata": "Q191096",
+      "labels": {
+        "zh-cn": "煤山雀",
+        "ja": "ヒガラ",
+        "ko": "진박새"
+      }
+    },
+    "rusty-laughingthrush": {
+      "scientificName": "Pterorhinus poecilorhynchus",
+      "englishName": "Rusty Laughingthrush",
+      "wikiTitle": "Rusty laughingthrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/Rusty_laughingthrush",
+      "wikidata": "Q62081211",
+      "labels": {
+        "ja": "タイワンタケドリ"
+      }
+    },
+    "white-browed-bush-robin": {
+      "scientificName": "Tarsiger indicus",
+      "englishName": "White-browed Bush Robin",
+      "wikiTitle": "White-browed bush robin",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-browed_bush_robin",
+      "wikidata": "Q905873",
+      "labels": {
+        "ja": "キクチヒタキ",
+        "zh-cn": "白眉林鸲"
+      }
+    },
+    "ferruginous-flycatcher": {
+      "scientificName": "Muscicapa ferruginea",
+      "englishName": "Ferruginous Flycatcher",
+      "wikiTitle": "Ferruginous flycatcher",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferruginous_flycatcher",
+      "wikidata": "Q1313892",
+      "labels": {
+        "ja": "ミヤマヒタキ",
+        "zh-cn": "棕尾褐鹟"
+      }
+    },
+    "vivid-niltava": {
+      "scientificName": "Niltava vivida",
+      "englishName": "Vivid Niltava",
+      "wikiTitle": "Taiwan vivid niltava",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_vivid_niltava",
+      "wikidata": "Q1588332",
+      "labels": {
+        "ja": "チャバラオオルリ",
+        "zh-cn": "台湾棕腹蓝仙鹟"
+      }
+    },
+    "white-tailed-robin": {
+      "scientificName": "Myiomela leucura",
+      "englishName": "White-tailed Robin",
+      "wikiTitle": "White-tailed robin",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-tailed_robin",
+      "wikidata": "Q1589083",
+      "labels": {
+        "ja": "コンヒタキ",
+        "zh-cn": "白尾蓝地鸲"
+      }
+    },
+    "brown-bullfinch": {
+      "scientificName": "Pyrrhula nipalensis",
+      "englishName": "Brown Bullfinch",
+      "wikiTitle": "Brown bullfinch",
+      "sourcePage": "https://en.wikipedia.org/wiki/Brown_bullfinch",
+      "wikidata": "Q731404",
+      "labels": {
+        "ja": "チャイロウソ",
+        "zh-cn": "褐灰雀"
+      }
+    },
+    "black-eagle": {
+      "scientificName": "Ictinaetus malaiensis",
+      "englishName": "Black Eagle",
+      "wikiTitle": "Black eagle",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black_eagle",
+      "wikidata": "Q795439",
+      "labels": {
+        "ja": "カザノワシ",
+        "zh-cn": "林雕",
+        "ko": "검은수리"
+      }
+    },
+    "chinese-sparrowhawk": {
+      "scientificName": "Accipiter soloensis",
+      "englishName": "Chinese Sparrowhawk",
+      "wikiTitle": "Chinese sparrowhawk",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chinese_sparrowhawk",
+      "wikidata": "Q128029",
+      "labels": {
+        "zh-cn": "赤腹鹰",
+        "ko": "붉은배새매",
+        "ja": "アカハラダカ"
+      }
+    },
+    "white-backed-woodpecker": {
+      "scientificName": "Dendrocopos leucotos",
+      "englishName": "White-backed Woodpecker",
+      "wikiTitle": "White-backed woodpecker",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-backed_woodpecker",
+      "wikidata": "Q207290",
+      "labels": {
+        "zh-cn": "白背啄木鸟",
+        "ja": "オオアカゲラ",
+        "ko": "큰오색딱따구리"
+      }
+    },
+    "grey-chinned-minivet": {
+      "scientificName": "Pericrocotus solaris",
+      "englishName": "Grey-chinned Minivet",
+      "wikiTitle": "Grey-chinned minivet",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey-chinned_minivet",
+      "wikidata": "Q1590404",
+      "labels": {
+        "ja": "ベニサンショウクイ",
+        "zh-cn": "灰喉山椒鸟"
+      }
+    },
+    "yellow-browed-warbler": {
+      "scientificName": "Phylloscopus inornatus",
+      "englishName": "Yellow-browed Warbler",
+      "wikiTitle": "Yellow-browed warbler",
+      "sourcePage": "https://en.wikipedia.org/wiki/Yellow-browed_warbler",
+      "wikidata": "Q330318",
+      "labels": {
+        "zh-cn": "黄眉柳莺",
+        "ja": "キマユムシクイ",
+        "ko": "노랑눈썹솔새"
+      }
+    },
+    "taiwan-rosefinch": {
+      "scientificName": "Carpodacus formosanus",
+      "englishName": "Taiwan Rosefinch",
+      "wikiTitle": "Taiwan rosefinch",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_rosefinch",
+      "wikidata": "Q15107481",
+      "labels": {
+        "zh-cn": "台湾酒红朱雀"
+      }
+    },
+    "taiwan-whistling-thrush": {
+      "scientificName": "Myophonus insularis",
+      "englishName": "Taiwan Whistling Thrush",
+      "wikiTitle": "Taiwan whistling thrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_whistling_thrush",
+      "wikidata": "Q386368",
+      "labels": {
+        "ja": "ルリチョウ",
+        "zh-cn": "台湾紫啸鸫"
+      }
+    },
+    "daurian-redstart": {
+      "scientificName": "Phoenicurus auroreus",
+      "englishName": "Daurian Redstart",
+      "wikiTitle": "Daurian redstart",
+      "sourcePage": "https://en.wikipedia.org/wiki/Daurian_redstart",
+      "wikidata": "Q616456",
+      "labels": {
+        "ja": "ジョウビタキ",
+        "ko": "딱새",
+        "zh-cn": "北红尾鸲"
+      }
+    },
+    "little-tern": {
+      "scientificName": "Sternula albifrons",
+      "englishName": "Little Tern",
+      "wikiTitle": "Little tern",
+      "sourcePage": "https://en.wikipedia.org/wiki/Little_tern",
+      "wikidata": "Q12267692",
+      "labels": {
+        "ja": "コアジサシ",
+        "ko": "쇠제비갈매기",
+        "zh-cn": "白额燕鸥"
+      }
+    },
+    "whiskered-tern": {
+      "scientificName": "Chlidonias hybrida",
+      "englishName": "Whiskered Tern",
+      "wikiTitle": "Whiskered tern",
+      "sourcePage": "https://en.wikipedia.org/wiki/Whiskered_tern",
+      "wikidata": "Q233616",
+      "labels": {
+        "zh-cn": "须浮鸥",
+        "ja": "クロハラアジサシ",
+        "ko": "구레나룻제비갈매기"
+      }
+    },
+    "black-winged-kite": {
+      "scientificName": "Elanus caeruleus",
+      "englishName": "Black-winged Kite",
+      "wikiTitle": "Black-winged kite",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-winged_kite",
+      "wikidata": "Q27227",
+      "labels": {
+        "ja": "カタグロトビ",
+        "ko": "검은어깨매",
+        "zh-cn": "黑翅鸢"
+      }
+    },
+    "pale-thrush": {
+      "scientificName": "Turdus pallidus",
+      "englishName": "Pale Thrush",
+      "wikiTitle": "Pale thrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pale_thrush",
+      "wikidata": "Q1589031",
+      "labels": {
+        "ja": "シロハラ",
+        "zh-cn": "白腹鸫",
+        "ko": "흰배지빠귀"
+      }
+    },
+    "eyebrowed-thrush": {
+      "scientificName": "Turdus obscurus",
+      "englishName": "Eyebrowed Thrush",
+      "wikiTitle": "Eyebrowed thrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eyebrowed_thrush",
+      "wikidata": "Q1591663",
+      "labels": {
+        "ja": "マミチャジナイ",
+        "zh-cn": "白眉鸫"
+      }
+    },
+    "eurasian-jay": {
+      "scientificName": "Garrulus glandarius",
+      "englishName": "Eurasian Jay",
+      "wikiTitle": "Eurasian jay",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_jay",
+      "wikidata": "Q25354",
+      "labels": {
+        "ko": "유라시아어치",
+        "ja": "カケス",
+        "zh-cn": "松鸦"
+      }
+    },
+    "crested-serpent-eagle": {
+      "scientificName": "Spilornis cheela",
+      "englishName": "Crested Serpent Eagle",
+      "wikiTitle": "Crested serpent eagle",
+      "sourcePage": "https://en.wikipedia.org/wiki/Crested_serpent_eagle",
+      "wikidata": "Q431212",
+      "labels": {
+        "ja": "カンムリワシ",
+        "zh-cn": "蛇雕",
+        "ko": "관수리"
+      }
+    },
+    "intermediate-egret": {
+      "scientificName": "Ardea intermedia",
+      "englishName": "Intermediate Egret",
+      "wikiTitle": "Medium egret",
+      "sourcePage": "https://en.wikipedia.org/wiki/Medium_egret",
+      "wikidata": "Q27074615",
+      "labels": {
+        "ja": "チュウサギ",
+        "ko": "중백로",
+        "zh-cn": "中白鹭"
+      }
+    },
+    "eastern-cattle-egret": {
+      "scientificName": "Bubulcus coromandus",
+      "englishName": "Eastern Cattle Egret",
+      "wikiTitle": "Eastern cattle egret",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eastern_cattle_egret",
+      "wikidata": "Q137507771",
+      "labels": {}
+    },
+    "yellow-bittern": {
+      "scientificName": "Ixobrychus sinensis",
+      "englishName": "Yellow Bittern",
+      "wikiTitle": "Yellow bittern",
+      "sourcePage": "https://en.wikipedia.org/wiki/Yellow_bittern",
+      "wikidata": "Q888536",
+      "labels": {
+        "ko": "덤불해오라기",
+        "ja": "ヨシゴイ",
+        "zh-cn": "黄苇鳽"
+      }
+    },
+    "common-sandpiper": {
+      "scientificName": "Actitis hypoleucos",
+      "englishName": "Common Sandpiper",
+      "wikiTitle": "Common sandpiper",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_sandpiper",
+      "wikidata": "Q18850",
+      "labels": {
+        "ja": "イソシギ",
+        "zh-cn": "矶鹬",
+        "ko": "깝작도요"
+      }
+    },
+    "white-breasted-waterhen": {
+      "scientificName": "Amaurornis phoenicurus",
+      "englishName": "White-breasted Waterhen",
+      "wikiTitle": "White-breasted waterhen",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-breasted_waterhen",
+      "wikidata": "Q862825",
+      "labels": {
+        "ja": "シロハラクイナ",
+        "zh-cn": "白胸苦恶鸟"
+      }
+    },
+    "yellow-bellied-bush-warbler": {
+      "scientificName": "Cettia acanthizoides",
+      "englishName": "Yellow-bellied Bush Warbler",
+      "wikiTitle": "Yellow-bellied bush warbler",
+      "sourcePage": "https://en.wikipedia.org/wiki/Yellow-bellied_bush_warbler",
+      "wikidata": "Q27075468",
+      "labels": {
+        "ja": "ミヤマウグイス",
+        "zh-cn": "黄腹树莺"
+      }
+    },
+    "spotted-nutcracker": {
+      "scientificName": "Nucifraga caryocatactes",
+      "englishName": "Spotted Nutcracker",
+      "wikiTitle": "Northern nutcracker",
+      "sourcePage": "https://en.wikipedia.org/wiki/Northern_nutcracker",
+      "wikidata": "Q184820",
+      "labels": {
+        "zh-cn": "星鸦",
+        "ja": "ホシガラス",
+        "ko": "잣까마귀"
+      }
+    },
+    "oriental-honey-buzzard": {
+      "scientificName": "Pernis ptilorhynchus",
+      "englishName": "Oriental Honey-buzzard",
+      "wikiTitle": "Crested honey buzzard",
+      "sourcePage": "https://en.wikipedia.org/wiki/Crested_honey_buzzard",
+      "wikidata": "Q605431",
+      "labels": {
+        "ja": "ハチクマ",
+        "ko": "벌매",
+        "zh-cn": "凤头蜂鹰"
+      }
+    },
+    "white-throated-needletail": {
+      "scientificName": "Hirundapus caudacutus",
+      "englishName": "White-throated Needletail",
+      "wikiTitle": "White-throated needletail",
+      "sourcePage": "https://en.wikipedia.org/wiki/White-throated_needletail",
+      "wikidata": "Q31769",
+      "labels": {
+        "ko": "바늘꼬리칼새",
+        "ja": "ハリオアマツバメ",
+        "zh-cn": "白喉针尾雨燕"
+      }
+    },
+    "japanese-sparrowhawk": {
+      "scientificName": "Accipiter gularis",
+      "englishName": "Japanese Sparrowhawk",
+      "wikiTitle": "Japanese sparrowhawk",
+      "sourcePage": "https://en.wikipedia.org/wiki/Japanese_sparrowhawk",
+      "wikidata": "Q606755",
+      "labels": {
+        "ja": "ツミ",
+        "ko": "조롱이",
+        "zh-cn": "日本松雀鹰"
+      }
+    },
+    "peregrine-falcon": {
+      "scientificName": "Falco peregrinus",
+      "englishName": "Peregrine Falcon",
+      "wikiTitle": "Peregrine falcon",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+      "wikidata": "Q30535",
+      "labels": {
+        "ko": "매",
+        "ja": "ハヤブサ",
+        "zh-cn": "游隼"
+      }
+    },
+    "pacific-swift": {
+      "scientificName": "Apus pacificus",
+      "englishName": "Pacific Swift",
+      "wikiTitle": "Pacific swift",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pacific_swift",
+      "wikidata": "Q31866",
+      "labels": {
+        "ko": "칼새",
+        "ja": "アマツバメ",
+        "zh-cn": "白腰雨燕"
+      }
+    },
+    "house-swift": {
+      "scientificName": "Apus nipalensis",
+      "englishName": "House Swift",
+      "wikiTitle": "House swift",
+      "sourcePage": "https://en.wikipedia.org/wiki/House_swift",
+      "wikidata": "Q31713",
+      "labels": {
+        "ja": "ヒメアマツバメ",
+        "zh-cn": "小白腰雨燕"
+      }
+    },
+    "barn-swallow": {
+      "scientificName": "Hirundo rustica",
+      "englishName": "Barn Swallow",
+      "wikiTitle": "Barn swallow",
+      "sourcePage": "https://en.wikipedia.org/wiki/Barn_swallow",
+      "wikidata": "Q25429",
+      "labels": {
+        "ko": "제비",
+        "ja": "ツバメ",
+        "zh-cn": "家燕"
+      }
+    },
+    "common-kestrel": {
+      "scientificName": "Falco tinnunculus",
+      "englishName": "Common Kestrel",
+      "wikiTitle": "Common kestrel",
+      "sourcePage": "https://en.wikipedia.org/wiki/Common_kestrel",
+      "wikidata": "Q26490",
+      "labels": {
+        "ko": "황조롱이",
+        "ja": "チョウゲンボウ",
+        "zh-cn": "红隼"
+      }
+    },
+    "oriental-dollarbird": {
+      "scientificName": "Eurystomus orientalis",
+      "englishName": "Oriental Dollarbird",
+      "wikiTitle": "Oriental dollarbird",
+      "sourcePage": "https://en.wikipedia.org/wiki/Oriental_dollarbird",
+      "wikidata": "Q44109",
+      "labels": {
+        "ko": "파랑새",
+        "ja": "ブッポウソウ",
+        "zh-cn": "三宝鸟"
+      }
+    },
+    "styans-bulbul": {
+      "scientificName": "Pycnonotus taivanus",
+      "englishName": "Styan's Bulbul",
+      "wikiTitle": "Styan's bulbul",
+      "sourcePage": "https://en.wikipedia.org/wiki/Styan%27s_bulbul",
+      "wikidata": "Q716262",
+      "labels": {
+        "ja": "クロガシラ"
+      }
+    },
+    "taiwan-hwamei": {
+      "scientificName": "Garrulax taewanus",
+      "englishName": "Taiwan Hwamei",
+      "wikiTitle": "Taiwan hwamei",
+      "sourcePage": "https://en.wikipedia.org/wiki/Taiwan_hwamei",
+      "wikidata": "Q716280",
+      "labels": {
+        "ja": "タイワンガビチョウ",
+        "zh-cn": "台湾画眉"
+      }
+    },
+    "blue-rock-thrush": {
+      "scientificName": "Monticola solitarius",
+      "englishName": "Blue Rock Thrush",
+      "wikiTitle": "Blue rock thrush",
+      "sourcePage": "https://en.wikipedia.org/wiki/Blue_rock_thrush",
+      "wikidata": "Q152144",
+      "labels": {
+        "zh-cn": "蓝矶鸫",
+        "ja": "イソヒヨドリ",
+        "ko": "바다직박구리"
+      }
+    },
+    "grey-wagtail": {
+      "scientificName": "Motacilla cinerea",
+      "englishName": "Grey Wagtail",
+      "wikiTitle": "Grey wagtail",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey_wagtail",
+      "wikidata": "Q201316",
+      "labels": {
+        "ja": "キセキレイ",
+        "ko": "노랑할미새",
+        "zh-cn": "灰鹡鸰"
+      }
+    },
+    "white-wagtail": {
+      "scientificName": "Motacilla alba",
+      "englishName": "White Wagtail",
+      "wikiTitle": "White wagtail",
+      "sourcePage": "https://en.wikipedia.org/wiki/White_wagtail",
+      "wikidata": "Q25399",
+      "labels": {
+        "ja": "タイリクハクセキレイ",
+        "ko": "알락할미새",
+        "zh-cn": "白鹡鸰"
+      }
+    },
+    "black-naped-monarch": {
+      "scientificName": "Hypothymis azurea",
+      "englishName": "Black-naped Monarch",
+      "wikiTitle": "Black-naped monarch",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-naped_monarch",
+      "wikidata": "Q73430",
+      "labels": {
+        "ja": "クロエリヒタキ",
+        "zh-cn": "黑枕王鹟"
+      }
+    },
+    "grey-capped-pygmy-woodpecker": {
+      "scientificName": "Yungipicus canicapillus",
+      "englishName": "Grey-capped Pygmy Woodpecker",
+      "wikiTitle": "Grey-capped pygmy woodpecker",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey-capped_pygmy_woodpecker",
+      "wikidata": "Q39277",
+      "labels": {
+        "zh-cn": "星头啄木鸟",
+        "ja": "ハイガシラコゲラ"
+      }
+    },
+    "large-billed-crow": {
+      "scientificName": "Corvus macrorhynchos",
+      "englishName": "Large-billed Crow",
+      "wikiTitle": "Large-billed crow",
+      "sourcePage": "https://en.wikipedia.org/wiki/Large-billed_crow",
+      "wikidata": "Q111674",
+      "labels": {
+        "ja": "ハシブトガラス",
+        "ko": "큰부리까마귀",
+        "zh-cn": "大嘴乌鸦"
+      }
+    },
+    "collared-scops-owl": {
+      "scientificName": "Otus lettia",
+      "englishName": "Collared Scops Owl",
+      "wikiTitle": "Collared scops owl",
+      "sourcePage": "https://en.wikipedia.org/wiki/Collared_scops_owl",
+      "wikidata": "Q1269116",
+      "labels": {
+        "ja": "ヒガシオオコノハズク",
+        "zh-cn": "领角鸮"
+      }
+    },
+    "crested-myna": {
+      "scientificName": "Acridotheres cristatellus",
+      "englishName": "Crested Myna",
+      "wikiTitle": "Crested myna",
+      "sourcePage": "https://en.wikipedia.org/wiki/Crested_myna",
+      "wikidata": "Q715819",
+      "labels": {
+        "ja": "ハッカチョウ",
+        "zh-cn": "八哥"
+      }
+    },
+    "kentish-plover": {
+      "scientificName": "Charadrius alexandrinus",
+      "englishName": "Kentish Plover",
+      "wikiTitle": "Kentish plover",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kentish_plover",
+      "wikidata": "Q18855",
+      "labels": {
+        "ja": "シロチドリ",
+        "zh-cn": "环颈鸻",
+        "ko": "흰물떼새"
+      }
+    },
+    "grey-plover": {
+      "scientificName": "Pluvialis squatarola",
+      "englishName": "Grey Plover",
+      "wikiTitle": "Grey plover",
+      "sourcePage": "https://en.wikipedia.org/wiki/Grey_plover",
+      "wikidata": "Q18835",
+      "labels": {
+        "ja": "ダイゼン",
+        "zh-cn": "灰斑鸻",
+        "ko": "개꿩"
+      }
+    },
+    "dunlin": {
+      "scientificName": "Calidris alpina",
+      "englishName": "Dunlin",
+      "wikiTitle": "Dunlin",
+      "sourcePage": "https://en.wikipedia.org/wiki/Dunlin",
+      "wikidata": "Q26650",
+      "labels": {
+        "ja": "ハマシギ",
+        "zh-cn": "黑腹滨鹬",
+        "ko": "민물도요"
+      }
+    },
+    "red-necked-stint": {
+      "scientificName": "Calidris ruficollis",
+      "englishName": "Red-necked Stint",
+      "wikiTitle": "Red-necked stint",
+      "sourcePage": "https://en.wikipedia.org/wiki/Red-necked_stint",
+      "wikidata": "Q18860",
+      "labels": {
+        "ja": "トウネン",
+        "zh-cn": "红颈滨鹬",
+        "ko": "좀도요"
+      }
+    },
+    "curlew-sandpiper": {
+      "scientificName": "Calidris ferruginea",
+      "englishName": "Curlew Sandpiper",
+      "wikiTitle": "Curlew sandpiper",
+      "sourcePage": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+      "wikidata": "Q62345",
+      "labels": {
+        "ja": "サルハマシギ",
+        "zh-cn": "弯嘴滨鹬",
+        "ko": "붉은갯도요"
+      }
+    },
+    "bar-tailed-godwit": {
+      "scientificName": "Limosa lapponica",
+      "englishName": "Bar-tailed Godwit",
+      "wikiTitle": "Bar-tailed godwit",
+      "sourcePage": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+      "wikidata": "Q18864",
+      "labels": {
+        "ja": "オオソリハシシギ",
+        "zh-cn": "斑尾塍鹬",
+        "ko": "큰뒷부리도요"
+      }
+    },
+    "black-tailed-godwit": {
+      "scientificName": "Limosa limosa",
+      "englishName": "Black-tailed Godwit",
+      "wikiTitle": "Black-tailed godwit",
+      "sourcePage": "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+      "wikidata": "Q18841",
+      "labels": {
+        "ja": "オグロシギ",
+        "ko": "흑꼬리도요",
+        "zh-cn": "黑尾塍鹬"
+      }
+    },
+    "whimbrel": {
+      "scientificName": "Numenius phaeopus",
+      "englishName": "Whimbrel",
+      "wikiTitle": "Eurasian whimbrel",
+      "sourcePage": "https://en.wikipedia.org/wiki/Eurasian_whimbrel",
+      "wikidata": "Q18858",
+      "labels": {
+        "ja": "チュウシャクシギ",
+        "ko": "중부리도요",
+        "zh-cn": "中杓鹬"
+      }
+    },
+    "caspian-tern": {
+      "scientificName": "Hydroprogne caspia",
+      "englishName": "Caspian Tern",
+      "wikiTitle": "Caspian tern",
+      "sourcePage": "https://en.wikipedia.org/wiki/Caspian_tern",
+      "wikidata": "Q27129",
+      "labels": {
+        "ja": "オニアジサシ",
+        "zh-cn": "红嘴巨鸥",
+        "ko": "붉은부리큰제비갈매기"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-07",
+  "sourceCount": 833,
+  "locales": [
+    "zh-Hant",
+    "en",
+    "ja",
+    "zh-Hans",
+    "ko"
+  ],
+  "missing": 0,
+  "placeholders": "verified",
+  "htmlStructure": "verified",
+  "birdNameFallbacks": {
+    "ja": [
+      "swinhoes-white-eye",
+      "taiwan-barbet",
+      "taiwan-rosefinch",
+      "eastern-cattle-egret"
+    ],
+    "ko": [
+      "swinhoes-white-eye",
+      "taiwan-barbet",
+      "grey-treepie",
+      "black-bulbul",
+      "taiwan-yuhina",
+      "white-eared-sibia",
+      "taiwan-liocichla",
+      "green-backed-tit",
+      "taiwan-barwing",
+      "flamecrest",
+      "collared-bush-robin",
+      "taiwan-laughingthrush",
+      "malayan-night-heron",
+      "plain-prinia",
+      "taiwan-scimitar-babbler",
+      "taiwan-partridge",
+      "grey-cheeked-fulvetta",
+      "rusty-laughingthrush",
+      "white-browed-bush-robin",
+      "ferruginous-flycatcher",
+      "vivid-niltava",
+      "white-tailed-robin",
+      "brown-bullfinch",
+      "grey-chinned-minivet",
+      "taiwan-rosefinch",
+      "taiwan-whistling-thrush",
+      "eyebrowed-thrush",
+      "eastern-cattle-egret",
+      "white-breasted-waterhen",
+      "yellow-bellied-bush-warbler",
+      "house-swift",
+      "styans-bulbul",
+      "taiwan-hwamei",
+      "black-naped-monarch",
+      "grey-capped-pygmy-woodpecker",
+      "collared-scops-owl",
+      "crested-myna"
+    ]
+  },
+  "notes": "Public strings translated at build time; gameplay terminology curated in editorial.tsv. Bird names use scientific-name-linked Wikidata labels; missing local names retain the existing English name. Narrative prose has not received native-speaker review."
+}

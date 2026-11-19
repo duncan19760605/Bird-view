@@ -1,0 +1,13 @@
+{
+  "appId": "com.birdview.game",
+  "appName": "走，賞鳥趣",
+  "webDir": "../build/web",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

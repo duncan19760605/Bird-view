@@ -1,0 +1,34 @@
+#screen-dex{background:radial-gradient(120% 90% at 80% 0%,#2e5c46 0%,#14291f 70%);overflow:hidden}
+.dex-wrap{height:100%;display:flex;flex-direction:column;padding:2.5cqh 3cqw;color:var(--paper)}
+.dex-head{display:flex;align-items:center;gap:1.2cqw;flex:0 0 auto}
+.dex-head h2{margin:0;font-size:clamp(14px,2.2cqw,34px)}
+.dex-head .tabs{display:flex;gap:.5em;margin-left:1cqw}
+.dex-head .btn{margin-left:auto}
+.dex-body{flex:1 1 auto;overflow:auto;margin-top:2cqh;padding-right:.5cqw}
+
+.dex-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2cqw}
+.dex-card{background:rgba(247,241,223,.94);color:var(--ink);border-radius:14px;overflow:hidden;
+  display:flex;flex-direction:column;cursor:pointer;border:2px solid transparent}
+.dex-card:hover{border-color:var(--gold)}
+.dex-card .thumb{aspect-ratio:1;overflow:hidden;background:#25332c center/cover no-repeat;position:relative}
+.dex-card .thumb .res{position:absolute;right:.4em;top:.4em;font-size:clamp(8px,.72cqw,12px);
+  padding:.15em .5em;border-radius:6px;background:var(--green);color:#fff;font-weight:800}
+.dex-card .thumb .res.low{background:var(--danger)}
+.dex-card .meta{padding:.6em .7em;font-size:clamp(9px,.85cqw,13px)}
+.dex-card .meta b{display:block;font-size:clamp(11px,1.15cqw,18px)}
+.dex-card .meta i{font-style:italic;opacity:.65}
+.dex-card.locked{background:rgba(247,241,223,.13);color:rgba(247,241,223,.55);cursor:default}
+.dex-card.locked .thumb{background:rgba(255,255,255,.05)}
+.dex-card.locked:hover{border-color:transparent}
+
+.dex-empty{opacity:.7;font-size:clamp(10px,1.1cqw,16px);padding:3cqh 0}
+
+.detail{display:grid;grid-template-columns:1fr 1fr;gap:1.2cqw;font-size:clamp(9px,.95cqw,14px)}
+.detail .shot{aspect-ratio:1;position:relative;overflow:hidden;border-radius:12px;background:#25332c center/cover no-repeat}
+.detail dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.25em .8em}
+.detail dt{font-weight:800;color:#4a6b5b;white-space:nowrap}
+.detail dd{margin:0}
+.detail .credit{grid-column:1/-1;margin-top:.6em;padding-top:.6em;border-top:1px dashed var(--line);opacity:.8}
+
+.dex-card .thumb .shot-bird,.detail .shot .shot-bird{position:absolute}
+.detail .shot{align-self:start}

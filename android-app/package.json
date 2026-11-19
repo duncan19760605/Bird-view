@@ -1,0 +1,19 @@
+{
+  "name": "bird-view-android",
+  "version": "0.4.6",
+  "private": true,
+  "description": "走，賞鳥趣 — Android 版（Capacitor）",
+  "scripts": {
+    "stage": "python ../tools/stage_web.py",
+    "sync": "cap sync android",
+    "icons": "python ../tools/make_icons.py --android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.2",
+    "@capacitor/app": "^7.1.2",
+    "@capacitor/core": "^7.4.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.2"
+  }
+}

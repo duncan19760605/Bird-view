@@ -1,0 +1,193 @@
+{
+  "id": 4,
+  "title": "農田賞鳥",
+  "subtitle": "田寮洋",
+  "scene": "scenes/tianliaoyang.png",
+  "birdDir": "birds/level04",
+  "zoomMode": "stepped",
+  "devices": [
+    "phone",
+    "scope"
+  ],
+  "requiredSpecies": 10,
+  "consecutiveDaysUnlock": 3,
+  "intro": "田寮洋的水田、田埂和灌叢藏著 16 種鳥，有些小鳥只停留幾秒，看到就趕快拍！",
+  "birds": [
+    {
+      "species": "plain-prinia",
+      "x": 0.3246,
+      "y": 0.6755,
+      "scale": 0.0152,
+      "art": "cutout",
+      "flip": true,
+      "hint": "草澤低枝",
+      "behavior": "低枝跳躍→草叢鳴叫",
+      "stay": 6
+    },
+    {
+      "species": "taiwan-barbet",
+      "x": 0.4917,
+      "y": 0.3764,
+      "scale": 0.0138,
+      "art": "cutout",
+      "flip": false,
+      "hint": "田中孤樹",
+      "behavior": "樹幹停棲→啄洞→短飛",
+      "stay": 7
+    },
+    {
+      "species": "taiwan-scimitar-babbler",
+      "x": 0.1657,
+      "y": 0.4246,
+      "scale": 0.0207,
+      "art": "cutout",
+      "flip": true,
+      "hint": "林緣灌叢",
+      "behavior": "低層枝葉間跳躍",
+      "stay": 6
+    },
+    {
+      "species": "black-kite",
+      "x": 0.8771,
+      "y": 0.3208,
+      "scale": 0.0235,
+      "art": "cutout",
+      "flip": false,
+      "hint": "鐵道電桿頂",
+      "behavior": "高空盤旋→俯衝覓食",
+      "stay": 7
+    },
+    {
+      "species": "spot-billed-duck",
+      "x": 0.297,
+      "y": 0.6045,
+      "scale": 0.0249,
+      "art": "cutout",
+      "flip": true,
+      "hint": "水田泥堆",
+      "behavior": "游水→低頭取食",
+      "stay": 9
+    },
+    {
+      "species": "little-ringed-plover",
+      "x": 0.5249,
+      "y": 0.6501,
+      "scale": 0.0124,
+      "art": "cutout",
+      "flip": true,
+      "hint": "水田泥墩",
+      "behavior": "快速奔跑後停頓覓食",
+      "stay": 5
+    },
+    {
+      "species": "brown-shrike",
+      "x": 0.7113,
+      "y": 0.5439,
+      "scale": 0.0152,
+      "art": "cutout",
+      "flip": false,
+      "hint": "孤立灌木頂",
+      "behavior": "高點停棲→俯衝捕蟲",
+      "stay": 7
+    },
+    {
+      "species": "eastern-yellow-wagtail",
+      "x": 0.8149,
+      "y": 0.6207,
+      "scale": 0.0138,
+      "art": "cutout",
+      "flip": false,
+      "hint": "田埂",
+      "behavior": "地面快步→尾部上下擺動",
+      "stay": 5
+    },
+    {
+      "species": "eurasian-coot",
+      "x": 0.6768,
+      "y": 0.6981,
+      "scale": 0.0221,
+      "art": "cutout",
+      "flip": false,
+      "hint": "埤塘水面",
+      "behavior": "游泳→潛水",
+      "stay": 9
+    },
+    {
+      "species": "eurasian-teal",
+      "x": 0.4489,
+      "y": 0.7026,
+      "scale": 0.0193,
+      "art": "cutout",
+      "flip": true,
+      "hint": "淺水田",
+      "behavior": "小群游水→快速起飛",
+      "stay": 7
+    },
+    {
+      "species": "northern-shoveler",
+      "x": 0.8011,
+      "y": 0.7276,
+      "scale": 0.0235,
+      "art": "cutout",
+      "flip": false,
+      "hint": "開闊水面",
+      "behavior": "寬嘴濾食→成群游動",
+      "stay": 8
+    },
+    {
+      "species": "grey-faced-buzzard",
+      "x": 0.587,
+      "y": 0.3834,
+      "scale": 0.0207,
+      "art": "cutout",
+      "flip": false,
+      "hint": "田中樹頂",
+      "behavior": "高空盤旋→滑翔",
+      "stay": 6
+    },
+    {
+      "species": "wood-sandpiper",
+      "x": 0.6043,
+      "y": 0.6697,
+      "scale": 0.0152,
+      "art": "cutout",
+      "flip": true,
+      "hint": "泥墩旁淺水",
+      "behavior": "涉水快走→啄食",
+      "stay": 6
+    },
+    {
+      "species": "osprey",
+      "x": 0.7666,
+      "y": 0.3576,
+      "scale": 0.0249,
+      "art": "cutout",
+      "flip": false,
+      "hint": "樹梢",
+      "behavior": "盤旋→俯衝抓魚",
+      "stay": 7
+    },
+    {
+      "species": "white-winged-tern",
+      "x": 0.5663,
+      "y": 0.7657,
+      "scale": 0.0166,
+      "art": "cutout",
+      "flip": true,
+      "hint": "泥堆",
+      "behavior": "水田上空低飛→停歇",
+      "stay": 5
+    },
+    {
+      "species": "black-winged-stilt",
+      "x": 0.2003,
+      "y": 0.5876,
+      "scale": 0.0207,
+      "art": "cutout",
+      "flip": false,
+      "hint": "水田邊淺水",
+      "behavior": "涉水覓食→快速飛行",
+      "stay": 8
+    }
+  ]
+}

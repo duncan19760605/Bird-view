@@ -1,0 +1,35 @@
+# ===== 機密：簽章金鑰與密碼，絕對不可上傳 =====
+android-app/keystore/
+*.jks
+*.keystore
+keystore.properties
+
+# ===== 授權受限（不得再散布）=====
+MotionPad-STEM-Agent/
+motionpad-game-creator/
+
+# ===== 可重新產生的建置輸出與套件 =====
+node_modules/
+build/
+release/*.exe
+release/*.apk
+android-app/android/app/build/
+android-app/android/build/
+android-app/android/capacitor-cordova-android-plugins/build/
+android-app/android/.gradle/
+android-app/android/local.properties
+android-app/android/app/src/main/assets/public/
+.gradle/
+
+# ===== 原始素材（不在 repo 中）=====
+photo/
+assets/pencil-cartoon/
+
+# ===== 本機雜項 =====
+.claude/
+__pycache__/
+*.pyc
+*.bak
+tools/_contact-sheet-*.png
+Thumbs.db
+desktop.ini

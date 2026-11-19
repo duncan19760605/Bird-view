@@ -1,0 +1,473 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "37702061": {
+        "pageid": 37702061,
+        "ns": 6,
+        "title": "File:Black-winged stilt (Himantopus himantopus himantopus).ogg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Black-winged_stilt_%28Himantopus_himantopus_himantopus%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_(Himantopus_himantopus_himantopus).ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37702061",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-01-06 12:46:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Black-winged stilt (Himantopus himantopus himantopus)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Himantopus himantopus|Self-published work|Files with coordinates missing SDC location of creation|Audio files of Himantopus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "20.904843",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "77.887402",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Black-winged stilt (Himantopus himantopus himantopus)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ashahar_alias_Krishna_Khan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ashahar alias Krishna Khan (page does not exist)\">Ashahar alias Krishna Khan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "16592315": {
+        "pageid": 16592315,
+        "ns": 6,
+        "title": "File:Passer montanus.ogg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Passer_montanus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Passer_montanus.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16592315",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-09-20 11:05:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Passer montanus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Audio files of Passer montanus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Calls of several tree sparrows, Moscow region, Russia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-09-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkhivov\" title=\"User:Arkhivov\">Vladimir Yu. Arkhipov, Arkhivov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18867788": {
+        "pageid": 18867788,
+        "ns": 6,
+        "title": "File:Periparus ater.ogg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Periparus_ater.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Periparus_ater.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18867788",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-27 19:19:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Periparus ater",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Bryansk Forest|March 2012 in Russia|Self-published work|Sounds of birds recorded in Russia|Birds of Bryansk Oblast|Audio files of Periparus ater|Periparus ater in Russia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Song of Coal Tit, Bryansk region, Russia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Arkhivov\" title=\"User:Arkhivov\">Vladimir Yu. Arkhipov, Arkhivov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68261055": {
+        "pageid": 68261055,
+        "ns": 6,
+        "title": "File:Pycnonotus sinensis - Light-vented Bulbul XC258975.mp3",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pycnonotus_sinensis_-_Light-vented_Bulbul_XC258975.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pycnonotus_sinensis_-_Light-vented_Bulbul_XC258975.mp3",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68261055",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-12 01:13:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pycnonotus sinensis - Light-vented Bulbul XC258975",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pycnonotus sinensis|Xeno-canto|Audio files of Pycnonotus|Sound files uploaded by Fæ",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.033800",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "116.390700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": ":Perching on treetop (4m); Habitat: Urban Park; Photograph taken: yes - link: <a rel=\"nofollow\" class=\"external free\" href=\"http://1drv.ms/1HQQrpt\">http://1drv.ms/1HQQrpt</a> ;\n<dl><dd>bird-seen:yes</dd>\n<dd>playback-used:no</dd>\n<dd><b>Common name:</b> Light-vented Bulbul</dd>\n<dd><b>Type:</b> call, male</dd>\n<dd><b>Genus:</b> Pycnonotus</dd>\n<dd><b>Species:</b> sinensis</dd>\n<dd><b>Location:</b> Olympic Park, Beijing</dd>\n<dd><b>Country:</b> China</dd>\n<dd><b>Elevation:</b> 40 m</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-04-06 12:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd>Metadata: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.xeno-canto.org/258975\">https://www.xeno-canto.org/258975</a></dd>\n<dd>Audio file: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.xeno-canto.org/258975/download\">https://www.xeno-canto.org/258975/download</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Joseph Tang",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26595553": {
+        "pageid": 26595553,
+        "ns": 6,
+        "title": "File:斑鴿咧叫的聲.ogg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E6%96%91%E9%B4%BF%E5%92%A7%E5%8F%AB%E7%9A%84%E8%81%B2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%96%91%E9%B4%BF%E5%92%A7%E5%8F%AB%E7%9A%84%E8%81%B2.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26595553",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-06-11 13:55:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "斑鴿咧叫的聲",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Spilopelia chinensis chinensis|Self-published work|Audio files of Columbidae",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cooing of a Spotted dove (<i>Spilopelia chinensis chinensis</i>), recorded at 7 in the morning while it was perched at the window. Recorded in Muzha, Taipei",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-11 07:21:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ianbu\" title=\"User:Ianbu\">Ianbu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

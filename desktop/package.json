@@ -1,0 +1,18 @@
+{
+  "name": "bird-view",
+  "productName": "BirdView",
+  "version": "0.4.6",
+  "description": "走，賞鳥趣 — 九宮格地墊賞鳥遊戲（Windows 桌面版）",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "stage": "python ../tools/stage_web.py && python ../tools/make_icons.py",
+    "start": "electron .",
+    "selftest": "electron . --selftest && electron . --selftest=game",
+    "package": "electron-packager . BirdView --platform=win32 --arch=x64 --out=../build/desktop --overwrite --icon=../build/icon.ico --extra-resource=../build/web --ignore=^/selftest --app-version=0.4.6 --win32metadata.ProductName=BirdView --win32metadata.FileDescription=BirdView --win32metadata.CompanyName=BirdView"
+  },
+  "devDependencies": {
+    "@electron/packager": "^18.3.6",
+    "electron": "^37.2.0"
+  }
+}

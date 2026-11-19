@@ -1,0 +1,259 @@
+{
+  "id": 8,
+  "title": "高山草原賞鳥",
+  "subtitle": "合歡山（海拔 3,000 公尺）",
+  "scene": "scenes/hehuan.png",
+  "birdDir": "birds/level08",
+  "zoomMode": "continuous",
+  "devices": [
+    "phone",
+    "scope"
+  ],
+  "requiredSpecies": 15,
+  "consecutiveDaysUnlock": 3,
+  "intro": "合歡山的箭竹草原與冷杉林有 22 種高山鳥，多是台灣特有種，體型小又躲在灌叢裡，請善用望遠鏡；稜線上空還有過境的猛禽。",
+  "birds": [
+    {
+      "species": "mikado-pheasant",
+      "x": 0.1495,
+      "y": 0.7151,
+      "scale": 0.0395,
+      "art": "cutout",
+      "flip": false,
+      "hint": "步道上",
+      "behavior": "晨昏步行→受驚短飛",
+      "stay": 8
+    },
+    {
+      "species": "taiwan-rosefinch",
+      "x": 0.2721,
+      "y": 0.7851,
+      "scale": 0.0132,
+      "art": "cutout",
+      "flip": false,
+      "hint": "步道岩石上",
+      "behavior": "地面覓食→波浪狀飛行",
+      "stay": 6
+    },
+    {
+      "species": "taiwan-laughingthrush",
+      "x": 0.0658,
+      "y": 0.7635,
+      "scale": 0.0179,
+      "art": "cutout",
+      "flip": true,
+      "hint": "步道邊灌叢",
+      "behavior": "地面跳躍→近人覓食",
+      "stay": 7
+    },
+    {
+      "species": "collared-bush-robin",
+      "x": 0.1794,
+      "y": 0.8496,
+      "scale": 0.012,
+      "art": "cutout",
+      "flip": true,
+      "hint": "大石頭頂",
+      "behavior": "停枝觀察→短距離撲飛",
+      "stay": 6
+    },
+    {
+      "species": "pale-thrush",
+      "x": 0.311,
+      "y": 0.8674,
+      "scale": 0.0156,
+      "art": "cutout",
+      "flip": false,
+      "hint": "步道旁岩石",
+      "behavior": "地面翻葉→跳躍",
+      "stay": 6
+    },
+    {
+      "species": "white-browed-bush-robin",
+      "x": 0.5263,
+      "y": 0.8023,
+      "scale": 0.0108,
+      "art": "cutout",
+      "flip": true,
+      "hint": "箭竹灌叢頂",
+      "behavior": "停枝守候→短飛",
+      "stay": 5
+    },
+    {
+      "species": "yellow-bellied-bush-warbler",
+      "x": 0.4187,
+      "y": 0.7267,
+      "scale": 0.0096,
+      "art": "cutout",
+      "flip": true,
+      "hint": "箭竹叢中",
+      "behavior": "低層跳躍→灌叢內活動",
+      "stay": 4
+    },
+    {
+      "species": "eyebrowed-thrush",
+      "x": 0.3708,
+      "y": 0.6367,
+      "scale": 0.0144,
+      "art": "cutout",
+      "flip": true,
+      "hint": "林緣草坡",
+      "behavior": "地面覓食→枝上停棲",
+      "stay": 5
+    },
+    {
+      "species": "taiwan-whistling-thrush",
+      "x": 0.933,
+      "y": 0.739,
+      "scale": 0.0179,
+      "art": "cutout",
+      "flip": false,
+      "hint": "岩石上",
+      "behavior": "岩石跳躍→低飛",
+      "stay": 6
+    },
+    {
+      "species": "daurian-redstart",
+      "x": 0.8744,
+      "y": 0.6286,
+      "scale": 0.012,
+      "art": "cutout",
+      "flip": false,
+      "hint": "枯立木頂",
+      "behavior": "停棲→抖動尾羽",
+      "stay": 5
+    },
+    {
+      "species": "chinese-sparrowhawk",
+      "x": 0.7476,
+      "y": 0.5815,
+      "scale": 0.0144,
+      "art": "cutout",
+      "flip": false,
+      "hint": "冷杉樹頂",
+      "behavior": "過境停歇→快速遷徙",
+      "stay": 4
+    },
+    {
+      "species": "eurasian-jay",
+      "x": 0.7057,
+      "y": 0.6494,
+      "scale": 0.0167,
+      "art": "cutout",
+      "flip": false,
+      "hint": "冷杉中層",
+      "behavior": "警戒鳴叫→枝間跳躍",
+      "stay": 6
+    },
+    {
+      "species": "green-backed-tit",
+      "x": 0.8971,
+      "y": 0.6761,
+      "scale": 0.009,
+      "art": "cutout",
+      "flip": false,
+      "hint": "冷杉枝條",
+      "behavior": "枝間跳躍→混群",
+      "stay": 5
+    },
+    {
+      "species": "coal-tit",
+      "x": 0.9091,
+      "y": 0.5891,
+      "scale": 0.0084,
+      "art": "cutout",
+      "flip": false,
+      "hint": "針葉林枝頭",
+      "behavior": "倒吊覓食→混群活動",
+      "stay": 4
+    },
+    {
+      "species": "taiwan-yuhina",
+      "x": 0.8044,
+      "y": 0.6251,
+      "scale": 0.0096,
+      "art": "cutout",
+      "flip": true,
+      "hint": "冷杉林緣",
+      "behavior": "成群快速移動→花間取食",
+      "stay": 4
+    },
+    {
+      "species": "flamecrest",
+      "x": 0.948,
+      "y": 0.5035,
+      "scale": 0.0078,
+      "art": "cutout",
+      "flip": false,
+      "hint": "冷杉枝梢",
+      "behavior": "枝梢快速跳躍→原地鼓翼",
+      "stay": 4
+    },
+    {
+      "species": "spotted-nutcracker",
+      "x": 0.951,
+      "y": 0.4263,
+      "scale": 0.0144,
+      "art": "cutout",
+      "flip": false,
+      "hint": "冷杉頂端",
+      "behavior": "樹梢停棲→採食松子",
+      "stay": 6
+    },
+    {
+      "species": "ferruginous-flycatcher",
+      "x": 0.8612,
+      "y": 0.7266,
+      "scale": 0.0096,
+      "art": "cutout",
+      "flip": true,
+      "hint": "枯枝上",
+      "behavior": "停枝→飛撲捕蟲",
+      "stay": 5
+    },
+    {
+      "species": "black-eagle",
+      "x": 0.4187,
+      "y": 0.1692,
+      "scale": 0.0347,
+      "art": "cutout",
+      "flip": false,
+      "hint": "山谷上空",
+      "behavior": "沿稜線巡弋→高空滑翔",
+      "stay": 5
+    },
+    {
+      "species": "grey-faced-buzzard",
+      "x": 0.7057,
+      "y": 0.0959,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": true,
+      "hint": "稜線高空",
+      "behavior": "盤旋→滑翔過境",
+      "stay": 4
+    },
+    {
+      "species": "oriental-honey-buzzard",
+      "x": 0.2273,
+      "y": 0.0983,
+      "scale": 0.0263,
+      "art": "cutout",
+      "flip": false,
+      "hint": "高空",
+      "behavior": "長距離滑翔→盤旋",
+      "stay": 4
+    },
+    {
+      "species": "white-throated-needletail",
+      "x": 0.5861,
+      "y": 0.3393,
+      "scale": 0.0132,
+      "art": "cutout",
+      "flip": false,
+      "hint": "稜線上空",
+      "behavior": "極高速掠過→急轉",
+      "stay": 3
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+# Source|English|日本語|한국어
+地面翻找落葉|Search through fallen leaves on the ground|地面の落ち葉を探る|땅의 낙엽을 뒤져 먹이 찾기
+林緣、社頂上空|Forest edges and the sky over Sheding|林縁、社頂の上空|숲 가장자리, 서딩 상공
+走，賞鳥趣|BirdView — Let’s Go Birdwatching|BirdView — バードウォッチングに行こう|BirdView — 새 관찰을 떠나요
+設定|Settings|設定|설정
+設定（1）|Settings (1)|設定（1）|설정 (1)
+語言|Language|言語|언어
+選擇顯示語言。套用後會重新載入，圖鑑與遊戲進度會保留。|Choose a display language. The game will reload; your collection and progress will be kept.|表示言語を選択してください。適用すると再読み込みしますが、図鑑と進行状況は保存されます。|표시 언어를 선택하세요. 적용하면 다시 불러오며, 도감과 진행 상황은 유지됩니다.
+2／4／6／8 選擇，9 套用，3 返回|2/4/6/8: select · 9: apply · 3: back|2／4／6／8：選択、9：適用、3：戻る|2/4/6/8: 선택 · 9: 적용 · 3: 돌아가기
+返回選單（3）|Back to menu (3)|メニューへ戻る（3）|메뉴로 돌아가기 (3)
+畫面風格|Visual style|表示スタイル|화면 스타일
+寫實攝影|Realistic|写真風|사실적인 사진
+彩繪鉛筆|Colored pencil|色鉛筆|색연필
+聲音|Sound|サウンド|소리
+音樂|Music|音楽|음악
+鳥鳴|Bird calls|鳥の声|새소리
+鳥鳴來源與授權 ↗|Bird call credits ↗|鳥の声の出典・ライセンス ↗|새소리 출처 및 라이선스 ↗
+操控方式|Controls|操作方法|조작 방식
+地墊（超聲波）|Ultrasonic mat|超音波マット|초음파 매트
+觸控螢幕|Touchscreen|タッチ操作|터치스크린
+鍵盤|Keyboard|キーボード|키보드
+收音設定與校正|Microphone setup & calibration|マイク設定・校正|마이크 설정 및 보정
+我的賞鳥圖鑑|My bird collection|マイ野鳥図鑑|나의 새 도감
+重設進度|Reset progress|進行状況をリセット|진행 상황 초기화
+將清除圖鑑、風景照、遊玩日期與望遠鏡獎勵，確定嗎？|Clear your bird collection, landscape photos, play dates and scope reward?|図鑑、風景写真、プレイ日、望遠鏡の報酬をすべて削除しますか？|도감, 풍경 사진, 플레이 날짜와 망원경 보상을 모두 삭제할까요?
+取消|Cancel|キャンセル|취소
+確定重設|Reset|リセットする|초기화
+好|OK|OK|확인
+關|Off|オフ|끔
+休息|Rest|休憩|휴식
+休息區|Rest cell|休憩マス|휴식 칸
+上|Up|上|위
+下|Down|下|아래
+左|Left|左|왼쪽
+右|Right|右|오른쪽
+左上|Top left|左上|왼쪽 위
+右上|Top right|右上|오른쪽 위
+左下|Bottom left|左下|왼쪽 아래
+右下|Bottom right|右下|오른쪽 아래
+上移|Move up|上へ|위로
+下移|Move down|下へ|아래로
+左移|Move left|左へ|왼쪽으로
+右移|Move right|右へ|오른쪽으로
+縮小|Zoom out|縮小|축소
+放大|Zoom in|拡大|확대
+攝影|Capture|撮影|촬영
+退出|Exit|終了|나가기
+手機|Phone|スマートフォン|스마트폰
+單筒望遠鏡|Scope|単眼望遠鏡|단안 망원경
+無段變焦|Continuous zoom|連続ズーム|연속 줌
+有段變焦|Stepped zoom|段階ズーム|단계 줌
+高解析|High resolution|高解像度|고해상도
+低解析|Low resolution|低解像度|저해상도
+光學 · 高解析|Optical · high resolution|光学・高解像度|광학 · 고해상도
+光學變焦 · 高解析|Optical zoom · high resolution|光学ズーム・高解像度|광학 줌 · 고해상도
+數位變焦 · 低解析|Digital zoom · low resolution|デジタルズーム・低解像度|디지털 줌 · 저해상도
+光學 {0}X|Optical {0}X|光学 {0}X|광학 {0}X
+光學 {0}X × 數位 {1}X|Optical {0}X × digital {1}X|光学 {0}X × デジタル {1}X|광학 {0}X × 디지털 {1}X
+{0} 秒|{0} s|{0} 秒|{0}초
+第 {0} 關|Level {0}|ステージ {0}|스테이지 {0}
+第 {3} 關|Level {3}|ステージ {3}|스테이지 {3}
+第 {0} 關 · {1}|Level {0} · {1}|ステージ {0}・{1}|스테이지 {0} · {1}
+已記錄 {0} / {1} 種|Recorded {0} / {1} species|記録済み {0} / {1} 種|기록한 종 {0} / {1}
+{0} / {1} 種|{0} / {1} species|{0} / {1} 種|{0} / {1}종
+{0}/{1} 種 · |{0}/{1} species · |{0}/{1} 種・|{0}/{1}종 · 
+格點 {0},{1} / 20|Grid {0},{1} / 20|グリッド {0},{1} / 20|격자 {0},{1} / 20
+載入中…|Loading…|読み込み中…|불러오는 중…
+未解鎖|Locked|未開放|잠김
+敬請期待|Coming soon|近日公開|출시 예정
+已通關 {0}/{1}|Cleared {0}/{1}|クリア {0}/{1}|완료 {0}/{1}
+（連續 3 天）|(3 consecutive days)|（3日連続）|(3일 연속)
+圖鑑 {0} 種　·　風景照 {1} 張　·　|Collection: {0} species · Landscapes: {1} · |図鑑 {0} 種・風景写真 {1} 枚・|도감 {0}종 · 풍경 사진 {1}장 · 
+已擁有 10–20X 單筒望遠鏡（關卡中同時按 1＋7 切換）|10–20X scope unlocked (press 1+7 together in a level)|10～20X望遠鏡を入手済み（プレイ中に1＋7を同時押し）|10–20X 망원경 획득 (스테이지에서 1+7 동시 누르기)
+尚未取得單筒望遠鏡|Scope not yet unlocked|望遠鏡は未入手|망원경 미획득
+退出關卡|Leave level|ステージを終了|스테이지 나가기
+要離開這一關嗎？已記錄的照片都會保留。|Leave this level? Your recorded photos will be kept.|このステージを終了しますか？記録した写真は保存されます。|이 스테이지에서 나갈까요? 기록한 사진은 유지됩니다.
+繼續遊戲|Keep playing|プレイを続ける|계속하기
+看圖鑑|View collection|図鑑を見る|도감 보기
+回關卡選單|Level menu|ステージ選択へ|스테이지 메뉴
+留在本關繼續拍|Keep photographing here|このステージで撮影を続ける|이 스테이지에서 계속 촬영
+前往第 {0} 關|Go to level {0}|ステージ {0} へ|스테이지 {0}(으)로
+第 {0} 關完成！|Level {0} complete!|ステージ {0} クリア！|스테이지 {0} 완료!
+你已記錄 {0} 種鳥類，達成過關條件（{1} 種）。|You recorded {0} bird species and reached the target of {1}.|{0} 種の鳥を記録し、目標の {1} 種を達成しました。|새 {0}종을 기록하여 목표 {1}종을 달성했어요.
+尚未記錄|Not recorded|未記録|미기록
+尚未載入鳥類資料。|Bird data has not loaded yet.|鳥のデータはまだ読み込まれていません。|새 데이터를 아직 불러오지 못했어요.
+還沒有風景照。在沒有鳥的位置按 9 就會存到這裡。|No landscape photos yet. Press 9 where no bird is in frame to save one.|風景写真はまだありません。鳥が写っていない場所で9を押すと保存できます。|아직 풍경 사진이 없어요. 새가 없는 곳에서 9를 누르면 저장돼요.
+風景攝影區|Landscape photos|風景写真|풍경 사진
+鳥類圖鑑|Bird collection|野鳥図鑑|새 도감
+學名|Scientific name|学名|학명
+英文名|English name|英語名|영어 이름
+體長|Length|全長|몸길이
+體型|Size|大きさ|크기
+棲位|Habitat|生息場所|서식 환경
+建議倍率|Suggested zoom|推奨倍率|권장 배율
+拍攝關卡|Level photographed|撮影ステージ|촬영 스테이지
+拍攝裝置|Device|撮影機器|촬영 장비
+影像品質|Image quality|画質|화질
+拍攝時間|Photographed at|撮影日時|촬영 시간
+AI 數位生成影像|AI-generated image|AI生成画像|AI 생성 이미지
+攝影：{0}|Photographer: {0}|撮影：{0}|촬영자: {0}
+授權資訊待補|License details pending|ライセンス情報は確認中|라이선스 정보 확인 중
+關閉|Close|閉じる|닫기
+沒有拍到鳥，已存入風景攝影區|No bird in frame. Saved as a landscape photo.|鳥が写っていないため、風景写真として保存しました。|새가 없어 풍경 사진으로 저장했어요.
+圖鑑照片已更新為高解析|Collection photo upgraded to high resolution|図鑑の写真を高解像度に更新しました|도감 사진을 고해상도로 갱신했어요
+{0} 圖鑑照片已更新為高解析版本|{0}: collection photo upgraded to high resolution|{0}：図鑑の写真を高解像度に更新しました|{0}: 도감 사진을 고해상도로 갱신했어요
+{0}　已進入賞鳥圖鑑|{0} · Added to the collection|{0}・図鑑に登録しました|{0} · 도감에 등록했어요
+本關已記錄過 {0}|{0} is already recorded in this level|{0} はこのステージで記録済みです|{0}: 이 스테이지에서 이미 기록했어요
+📷 記錄成功：{0}{1}|📷 Recorded: {0}{1}|📷 記録しました：{0}{1}|📷 기록 성공: {0}{1}
+📷 記錄成功：{0}（第 {1} 關 +1）{2}|📷 Recorded: {0} (level {1} +1){2}|📷 記録しました：{0}（ステージ {1} +1）{2}|📷 기록 성공: {0} (스테이지 {1} +1){2}
+目前沒有可切換的裝置|No other device available|切り替えられる機器はありません|전환할 수 있는 장비가 없어요
+在第 1 關記錄滿 5 種鳥即可獲得單筒望遠鏡|Record five species in level 1 to earn the scope|ステージ1で5種の鳥を記録すると望遠鏡が手に入ります|스테이지 1에서 새 5종을 기록하면 망원경을 얻어요
+一張照片只能有一種鳥|Frame exactly one bird|1枚に写す鳥は1羽だけです|사진에는 새 한 마리만 담아 주세요
+畫面中有 {0}，請再放大一點|In frame: {0}. Zoom in to isolate one bird.|{0} が写っています。さらに拡大して1羽だけを撮影してください。|화면에 {0}이(가) 있어요. 확대해서 한 마리만 담아 주세요.
+5 號是休息格|Cell 5 is for resting|5は休憩マスです|5번 칸은 휴식 칸이에요
+同時按 1＋7 切換裝置|Press 1+7 together to switch devices|1＋7の同時押しで機器を切り替え|1+7을 동시에 눌러 장비 전환
+ · 1+7 換裝置| · 1+7: switch|・1+7で切替| · 1+7: 전환
+{0} 已離開視野|{0} has left the view|{0} が視野から離れました|{0}이(가) 시야에서 벗어났어요
+{1}　稍後會再回來|{1} · It will return later|{1}・しばらくすると戻ります|{1} · 잠시 후 돌아와요
+（本關已遊玩 {1} 天）|(Played this level on {1} days)|（このステージのプレイ日数：{1}日）|(이 스테이지 플레이: {1}일)
+🎤 地墊收音中・踩到的格子會亮起・雙腳同踩 1＋7 換裝置|🎤 Mat input active · Cells light up when stepped on · Step on 1+7 together to switch|🎤 マット入力中・踏んだマスが点灯・1＋7を両足で同時に踏むと機器切替|🎤 매트 입력 중 · 밟은 칸에 불이 켜져요 · 양발로 1+7을 동시에 밟으면 장비 전환
+點按九宮格操作・兩指同按 1＋7 換裝置|Tap the keypad · Touch 1+7 together to switch devices|マスをタッチして操作・1＋7を2本の指で同時タッチして機器切替|버튼을 터치해 조작 · 두 손가락으로 1+7을 동시에 터치하면 장비 전환
+鍵盤 1–9・方向鍵・＋／－・空白鍵拍照・Esc 退出|Keys 1–9 / arrows · +/− zoom · Space capture · Esc exit|1～9／矢印キー・＋／－でズーム・スペースで撮影・Escで終了|1–9 / 방향키 · +/− 줌 · 스페이스 촬영 · Esc 나가기
+① 開啟收音|① Start microphone|① マイク入力を開始|① 마이크 입력 시작
+② 背景校正 10 秒|② Calibrate background (10 s)|② 背景ノイズを校正（10秒）|② 배경 소음 보정 (10초)
+③ 逐格踩踏檢查|③ Test each mat cell|③ 各マスを踏んで確認|③ 각 칸 밟기 검사
+④ 套用建議|④ Apply recommendations|④ 推奨値を適用|④ 권장값 적용
+一鍵引導校正（9）|Guided calibration (9)|ガイド付き校正（9）|안내에 따라 보정 (9)
+引導校正中…|Guided calibration in progress…|ガイド付き校正中…|안내 보정 진행 중…
+只重踩失敗的格子|Retry failed cells only|失敗したマスだけ再測定|실패한 칸만 다시 검사
+進階：分步校正與頻道參數|Advanced: calibration steps & channels|詳細：段階別校正とチャンネル設定|고급: 단계별 보정 및 채널 설정
+全域倍率|Global multiplier|全体倍率|전체 배수
+半頻寬 Hz|Half-bandwidth (Hz)|半帯域幅 Hz|반대역폭 Hz
+放開確認 ms|Release confirmation (ms)|離したことの確認 ms|발 떼기 확인 시간 ms
+匯出設定|Export settings|設定をエクスポート|설정 내보내기
+匯入設定|Import settings|設定をインポート|설정 가져오기
+恢復預設|Restore defaults|初期設定に戻す|기본값 복원
+開始監測錄製|Start numeric logging|数値ログを開始|수치 로그 기록 시작
+停止並匯出 CSV|Stop & export CSV|停止してCSV出力|중지 및 CSV 내보내기
+未收音|Microphone off|マイク停止中|마이크 꺼짐
+收音中（未校正）|Microphone active (uncalibrated)|マイク入力中（未校正）|마이크 입력 중 (미보정)
+收音中 · 校正有效|Microphone active · calibrated|マイク入力中・校正有効|마이크 입력 중 · 보정 유효
+收音中・校正有效|Microphone active · calibrated|マイク入力中・校正有効|마이크 입력 중 · 보정 유효
+收音中・尚未校正|Microphone active · uncalibrated|マイク入力中・未校正|마이크 입력 중 · 미보정
+停止收音|Stop microphone|マイク入力を停止|마이크 입력 중지
+背景校正|Background calibration|背景ノイズ校正|배경 소음 보정
+背景校正中|Calibrating background|背景ノイズ校正中|배경 소음 보정 중
+背景校正失敗|Background calibration failed|背景ノイズの校正に失敗|배경 소음 보정 실패
+校正完成|Calibration complete|校正完了|보정 완료
+錯誤|Error|エラー|오류
+麥克風|Microphone|マイク|마이크
+系統預設麥克風|System default microphone|システムの既定のマイク|시스템 기본 마이크
+麥克風控制中|Microphone control active|マイクで操作中|마이크로 조작 중
+麥克風 {0}|Microphone {0}|マイク {0}|마이크 {0}
+無法開啟麥克風|Cannot open microphone|マイクを開けません|마이크를 열 수 없어요
+請確認已允許麥克風權限，並接上麥克風。|Connect a microphone and allow microphone permission.|マイクを接続し、マイクへのアクセスを許可してください。|마이크를 연결하고 마이크 접근 권한을 허용해 주세요.
+已暫時改用「{0}」操控。|Controls have temporarily switched to {0}.|操作方法を一時的に「{0}」へ切り替えました。|조작 방식이 일시적으로 {0}(으)로 전환되었어요.
+（點一下畫面即開始收音）|(Interact to start microphone input)|（画面に触れるとマイク入力開始）|(화면을 누르면 마이크 입력 시작)
+請先開啟收音|Start the microphone first|先にマイク入力を開始してください|먼저 마이크 입력을 시작해 주세요
+請先完成背景校正|Calibrate the background first|先に背景ノイズを校正してください|먼저 배경 소음을 보정해 주세요
+請回到 5 號休息區，不要踩踏地墊…|Return to rest cell 5. Do not step on the active cells…|休憩マス5に戻り、操作マスを踏まないでください…|휴식 칸 5번으로 돌아가서 조작 칸을 밟지 마세요…
+請站在 5 號休息區，不要踩踏地墊…|Stand on rest cell 5. Do not step on the active cells…|休憩マス5に立ち、操作マスを踏まないでください…|휴식 칸 5번에 서서 조작 칸을 밟지 마세요…
+請站在 5 號休息區，不要踩踏地墊… {0} 秒|Rest on cell 5 without stepping on active cells… {0} s|休憩マス5で操作マスを踏まずに待ってください…残り{0}秒|휴식 칸 5번에서 조작 칸을 밟지 말고 기다리세요… {0}초
+背景校正中，請站在 5 號休息區不要踩踏… {0} 秒|Calibrating: rest on cell 5 without stepping… {0} s|校正中：休憩マス5で待ってください…残り{0}秒|보정 중: 휴식 칸 5번에서 기다리세요… {0}초
+請踩 {0} 號（{1}）…|Step on cell {0} ({1})…|マス{0}（{1}）を踏んでください…|{0}번 칸 ({1})을 밟아 주세요…
+聽到的是 {0} 號，請踩 {1} 號（{2}）|Detected cell {0}. Step on {1} ({2}).|マス{0}を検出しました。マス{1}（{2}）を踏んでください。|{0}번이 감지되었어요. {1}번 ({2})을 밟아 주세요.
+量測 {0} 號中…|Measuring cell {0}…|マス{0}を測定中…|{0}번 칸 측정 중…
+{0} 號完成，請回到 5 號休息區…|Cell {0} done. Return to rest cell 5…|マス{0}完了。休憩マス5に戻ってください…|{0}번 칸 완료. 휴식 칸 5번으로 돌아가세요…
+鎖定|Locked|ロック中|잠김
+待命|Ready|待機中|대기
+確認中|Confirming|確認中|확인 중
+衝突|Conflict|競合|충돌
+無效|Invalid|無効|유효하지 않음
+校正中|Calibrating|校正中|보정 중
+未校正|Uncalibrated|未校正|미보정
+位置|Position|位置|위치
+頻率 Hz|Frequency (Hz)|周波数 Hz|주파수 Hz
+閾值模式|Threshold mode|しきい値モード|임계값 모드
+倍率／手動 dB|Multiplier / manual dB|倍率／手動 dB|배수 / 수동 dB
+功率 dB|Power (dB)|パワー dB|전력 dB
+背景 dB|Background (dB)|背景 dB|배경 dB
+閾值 dB|Threshold (dB)|しきい値 dB|임계값 dB
+比值|Ratio|比率|비율
+峰值 Hz|Peak (Hz)|ピーク Hz|최대 주파수 Hz
+狀態|Status|状態|상태
+格子|Cell|マス|칸
+檢查結果|Test result|確認結果|검사 결과
+餘裕|Margin|マージン|여유
+目前閾值|Current threshold|現在のしきい値|현재 임계값
+自訂倍率|Custom multiplier|個別倍率|사용자 배수
+手動閾值|Manual threshold|手動しきい値|수동 임계값
+預設（背景 × 全域倍率）|Default (background × global multiplier)|既定（背景×全体倍率）|기본값 (배경 × 전체 배수)
+已校正（自訂倍率）|Calibrated (custom multiplier)|校正済み（個別倍率）|보정됨 (사용자 배수)
+已校正（手動閾值）|Calibrated (manual threshold)|校正済み（手動しきい値）|보정됨 (수동 임계값)
+✓ 通過|✓ Passed|✓ 合格|✓ 통과
+{0}訊雜比（SNR）越高越穩；餘裕低於 3 dB 的格子容易漏判或誤觸。|{0} Higher SNR means more reliable input. A margin below 3 dB may cause missed or false triggers.|{0} SNRが高いほど安定します。マージンが3 dB未満のマスは検出漏れや誤検出が起きやすくなります。|{0} SNR이 높을수록 안정적이에요. 여유가 3 dB 미만이면 누락이나 오감지가 발생하기 쉬워요.
+實測 {0} Hz（{1}{2}）· 訊號 {3}（P10 {4}）· SNR {5} dB · 餘裕 {6} dB · 下陷 {7} ms → 閾值 {8} dB|Measured {0} Hz ({1}{2}) · Signal {3} (P10 {4}) · SNR {5} dB · Margin {6} dB · Dip {7} ms → Threshold {8} dB|実測 {0} Hz（{1}{2}）・信号 {3}（P10 {4}）・SNR {5} dB・マージン {6} dB・低下 {7} ms → しきい値 {8} dB|측정 {0} Hz ({1}{2}) · 신호 {3} (P10 {4}) · SNR {5} dB · 여유 {6} dB · 신호 하락 {7} ms → 임계값 {8} dB
+各格仍是預設閾值，建議做一次一鍵引導校正。|All cells use default thresholds. Guided calibration is recommended.|全マスが既定のしきい値です。ガイド付き校正を行ってください。|모든 칸이 기본 임계값을 사용해요. 안내 보정을 권장해요.
+完成：8 格都已套用。試踩任一格，亮起表示可用；按 3 返回選單。|Done: all 8 cells calibrated. Test a cell; a light indicates detection. Press 3 for the menu.|完了：8マスに適用しました。踏んで点灯を確認してください。3でメニューに戻ります。|완료: 8개 칸에 적용했어요. 밟아서 점등을 확인하세요. 3을 누르면 메뉴로 돌아가요.
+目前各格使用預設閾值（背景 × 4），環境雜音可能造成誤觸。|All cells currently use default thresholds (background × 4). Ambient noise may cause false triggers.|各マスは既定のしきい値（背景×4）を使用しています。周囲の音で誤検出することがあります。|현재 모든 칸은 기본 임계값 (배경 × 4)을 사용해요. 주변 소음이 오감지를 일으킬 수 있어요.
+「一鍵引導校正」會依序做背景校正、請你逐格踩 1 2 3 4 6 7 8 9，並自動套用各格閾值，約 1 分鐘。|Guided calibration measures the background, then asks you to step on 1 2 3 4 6 7 8 9 and applies the thresholds. Takes about a minute.|ガイド付き校正では背景を測定し、1 2 3 4 6 7 8 9を順に踏んで各しきい値を適用します。約1分かかります。|안내 보정은 배경을 측정한 후 1 2 3 4 6 7 8 9를 차례로 밟도록 안내하고 임계값을 적용해요. 약 1분 걸려요.
+衝突事件 {0} 次|Conflict events: {0}|競合イベント：{0}回|충돌 이벤트: {0}회
+？？？|???|？？？|???

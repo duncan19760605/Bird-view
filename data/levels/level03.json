@@ -1,0 +1,127 @@
+{
+  "id": 3,
+  "title": "濕地賞鳥",
+  "subtitle": "關渡自然公園",
+  "scene": "scenes/guandu.png",
+  "birdDir": "birds/level03",
+  "zoomMode": "stepped",
+  "devices": [
+    "phone",
+    "scope"
+  ],
+  "requiredSpecies": 7,
+  "consecutiveDaysUnlock": 3,
+  "intro": "關渡濕地有 10 種水鳥，泥灘、潮溝與賞鳥亭都要仔細找。水鳥比較遠，善用 7 放大或同時按 1＋7 換望遠鏡。",
+  "birds": [
+    {
+      "species": "black-faced-spoonbill",
+      "x": 0.2572,
+      "y": 0.5999,
+      "scale": 0.0311,
+      "art": "cutout",
+      "flip": false,
+      "hint": "泥灘淺水",
+      "behavior": "左右掃嘴覓食→群聚休息",
+      "stay": 10
+    },
+    {
+      "species": "grey-heron",
+      "x": 0.7057,
+      "y": 0.6586,
+      "scale": 0.0275,
+      "art": "cutout",
+      "flip": false,
+      "hint": "對岸淺水",
+      "behavior": "長時間靜立→突然刺擊",
+      "stay": 11
+    },
+    {
+      "species": "little-egret",
+      "x": 0.4545,
+      "y": 0.6607,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方淺水區",
+      "behavior": "淺水涉行→快速追魚",
+      "stay": 9
+    },
+    {
+      "species": "black-crowned-night-heron",
+      "x": 0.1974,
+      "y": 0.5552,
+      "scale": 0.0227,
+      "art": "cutout",
+      "flip": false,
+      "hint": "蘆葦島岸邊",
+      "behavior": "岸邊靜立→低空飛行",
+      "stay": 10
+    },
+    {
+      "species": "black-winged-stilt",
+      "x": 0.5891,
+      "y": 0.6246,
+      "scale": 0.0179,
+      "art": "cutout",
+      "flip": false,
+      "hint": "草叢旁淺水",
+      "behavior": "淺水啄食→快速飛離",
+      "stay": 8
+    },
+    {
+      "species": "little-ringed-plover",
+      "x": 0.3708,
+      "y": 0.6067,
+      "scale": 0.012,
+      "art": "cutout",
+      "flip": true,
+      "hint": "裸露泥灘",
+      "behavior": "快跑→停頓→啄食",
+      "stay": 6
+    },
+    {
+      "species": "spot-billed-duck",
+      "x": 0.3888,
+      "y": 0.549,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": false,
+      "hint": "潮溝水面",
+      "behavior": "游水→低頭取食",
+      "stay": 9
+    },
+    {
+      "species": "northern-pintail",
+      "x": 0.7775,
+      "y": 0.6997,
+      "scale": 0.0251,
+      "art": "cutout",
+      "flip": true,
+      "hint": "開闊水面",
+      "behavior": "成群游水→快速起飛",
+      "stay": 8
+    },
+    {
+      "species": "northern-shoveler",
+      "x": 0.634,
+      "y": 0.5541,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": false,
+      "hint": "潮溝水面",
+      "behavior": "寬嘴濾食→原地旋轉",
+      "stay": 8
+    },
+    {
+      "species": "osprey",
+      "x": 0.8343,
+      "y": 0.3901,
+      "scale": 0.0239,
+      "art": "cutout",
+      "flip": false,
+      "hint": "賞鳥亭屋頂",
+      "behavior": "高處停棲→俯衝抓魚",
+      "stay": 7
+    }
+  ]
+}

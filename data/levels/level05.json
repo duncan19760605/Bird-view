@@ -1,0 +1,281 @@
+{
+  "id": 5,
+  "title": "海岸濕地賞鳥",
+  "subtitle": "鰲鼓濕地",
+  "scene": "scenes/aogu.png",
+  "birdDir": "birds/level05",
+  "zoomMode": "stepped",
+  "devices": [
+    "phone",
+    "scope"
+  ],
+  "requiredSpecies": 14,
+  "consecutiveDaysUnlock": 3,
+  "intro": "鰲鼓濕地是冬候鳥的天堂，共有 24 種鳥。鷸鴴科長得很像，放大看清楚嘴型和腳的顏色。",
+  "birds": [
+    {
+      "species": "black-faced-spoonbill",
+      "x": 0.6699,
+      "y": 0.544,
+      "scale": 0.0239,
+      "art": "cutout",
+      "flip": false,
+      "hint": "沙洲泥灘",
+      "behavior": "左右掃嘴覓食→群聚休息",
+      "stay": 9
+    },
+    {
+      "species": "eurasian-spoonbill",
+      "x": 0.701,
+      "y": 0.5431,
+      "scale": 0.0251,
+      "art": "cutout",
+      "flip": true,
+      "hint": "沙洲泥灘",
+      "behavior": "混在琵鷺群中休息",
+      "stay": 9
+    },
+    {
+      "species": "great-egret",
+      "x": 0.634,
+      "y": 0.4495,
+      "scale": 0.0179,
+      "art": "cutout",
+      "flip": false,
+      "hint": "小島岸邊",
+      "behavior": "緩慢涉水→伸頸捕魚",
+      "stay": 8
+    },
+    {
+      "species": "little-egret",
+      "x": 0.4187,
+      "y": 0.6629,
+      "scale": 0.0203,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方淺水",
+      "behavior": "快速涉水→追魚",
+      "stay": 7
+    },
+    {
+      "species": "grey-heron",
+      "x": 0.5144,
+      "y": 0.6535,
+      "scale": 0.0263,
+      "art": "cutout",
+      "flip": false,
+      "hint": "沙洲水緣",
+      "behavior": "長時間靜立→突然刺擊",
+      "stay": 10
+    },
+    {
+      "species": "black-winged-stilt",
+      "x": 0.7775,
+      "y": 0.5839,
+      "scale": 0.0156,
+      "art": "cutout",
+      "flip": false,
+      "hint": "淺水灘",
+      "behavior": "涉水啄食→群聚",
+      "stay": 7
+    },
+    {
+      "species": "pied-avocet",
+      "x": 0.8313,
+      "y": 0.5859,
+      "scale": 0.0167,
+      "art": "cutout",
+      "flip": true,
+      "hint": "淺水灘",
+      "behavior": "左右掃水濾食",
+      "stay": 7
+    },
+    {
+      "species": "little-ringed-plover",
+      "x": 0.5682,
+      "y": 0.6437,
+      "scale": 0.0096,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方泥灘",
+      "behavior": "快跑→停頓→啄食",
+      "stay": 5
+    },
+    {
+      "species": "common-greenshank",
+      "x": 0.6459,
+      "y": 0.6479,
+      "scale": 0.0144,
+      "art": "cutout",
+      "flip": false,
+      "hint": "前方泥灘",
+      "behavior": "快速涉水→追逐小魚",
+      "stay": 6
+    },
+    {
+      "species": "common-redshank",
+      "x": 0.7955,
+      "y": 0.6504,
+      "scale": 0.0132,
+      "art": "cutout",
+      "flip": true,
+      "hint": "潮間帶泥灘",
+      "behavior": "快速走動覓食→警戒鳴叫",
+      "stay": 6
+    },
+    {
+      "species": "eurasian-curlew",
+      "x": 0.8493,
+      "y": 0.6536,
+      "scale": 0.0191,
+      "art": "cutout",
+      "flip": false,
+      "hint": "潮間帶泥灘",
+      "behavior": "慢步探泥→長嘴插泥",
+      "stay": 8
+    },
+    {
+      "species": "northern-pintail",
+      "x": 0.1794,
+      "y": 0.6672,
+      "scale": 0.0239,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方水面",
+      "behavior": "成群游水→快速起飛",
+      "stay": 7
+    },
+    {
+      "species": "eurasian-wigeon",
+      "x": 0.2691,
+      "y": 0.7087,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方水面",
+      "behavior": "群聚游水→短程起飛",
+      "stay": 7
+    },
+    {
+      "species": "northern-shoveler",
+      "x": 0.1077,
+      "y": 0.7317,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": true,
+      "hint": "前方水面",
+      "behavior": "寬嘴濾食→成群旋轉",
+      "stay": 7
+    },
+    {
+      "species": "eurasian-teal",
+      "x": 0.3349,
+      "y": 0.6377,
+      "scale": 0.0167,
+      "art": "cutout",
+      "flip": true,
+      "hint": "水岸淺處",
+      "behavior": "小群游水→快速起飛",
+      "stay": 6
+    },
+    {
+      "species": "spot-billed-duck",
+      "x": 0.3589,
+      "y": 0.4469,
+      "scale": 0.0156,
+      "art": "cutout",
+      "flip": false,
+      "hint": "遠方湖面",
+      "behavior": "游水→低頭取食",
+      "stay": 8
+    },
+    {
+      "species": "great-cormorant",
+      "x": 0.8941,
+      "y": 0.5626,
+      "scale": 0.0215,
+      "art": "cutout",
+      "flip": true,
+      "hint": "枯木枝杈",
+      "behavior": "張翼曬羽→潛水捕魚",
+      "stay": 8
+    },
+    {
+      "species": "osprey",
+      "x": 0.924,
+      "y": 0.4638,
+      "scale": 0.0203,
+      "art": "cutout",
+      "flip": true,
+      "hint": "枯木頂端",
+      "behavior": "定點搜尋→俯衝抓魚",
+      "stay": 6
+    },
+    {
+      "species": "eastern-marsh-harrier",
+      "x": 0.1794,
+      "y": 0.5343,
+      "scale": 0.0239,
+      "art": "cutout",
+      "flip": false,
+      "hint": "蘆葦叢上",
+      "behavior": "貼著蘆葦低飛搜尋",
+      "stay": 5
+    },
+    {
+      "species": "black-winged-kite",
+      "x": 0.7309,
+      "y": 0.6146,
+      "scale": 0.0156,
+      "art": "cutout",
+      "flip": false,
+      "hint": "斷枝上",
+      "behavior": "懸停→俯衝捕食",
+      "stay": 5
+    },
+    {
+      "species": "little-tern",
+      "x": 0.7506,
+      "y": 0.5508,
+      "scale": 0.012,
+      "art": "cutout",
+      "flip": false,
+      "hint": "沙洲泥灘",
+      "behavior": "懸停→俯衝捕魚",
+      "stay": 4
+    },
+    {
+      "species": "whiskered-tern",
+      "x": 0.5084,
+      "y": 0.3037,
+      "scale": 0.0203,
+      "art": "cutout",
+      "flip": false,
+      "hint": "濕地上空",
+      "behavior": "低空巡飛→突然俯衝",
+      "stay": 4
+    },
+    {
+      "species": "oriental-magpie-robin",
+      "x": 0.299,
+      "y": 0.4632,
+      "scale": 0.0108,
+      "art": "cutout",
+      "flip": true,
+      "hint": "灌叢頂",
+      "behavior": "翹尾鳴唱→短飛",
+      "stay": 5
+    },
+    {
+      "species": "light-vented-bulbul",
+      "x": 0.0897,
+      "y": 0.4306,
+      "scale": 0.0108,
+      "art": "cutout",
+      "flip": true,
+      "hint": "岸邊樹叢",
+      "behavior": "灌木跳枝→短飛",
+      "stay": 5
+    }
+  ]
+}

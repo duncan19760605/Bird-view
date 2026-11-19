@@ -1,0 +1,106 @@
+
+{
+  "ok": true,
+  "log": [
+    {
+      "name": "saved per-position config",
+      "ok": true
+    },
+    {
+      "name": "mic overlay shown",
+      "ok": true
+    },
+    {
+      "name": "startup calibration",
+      "ok": true,
+      "msg": "請站在 5 號休息區，不要踩踏地墊… 0 秒"
+    },
+    {
+      "name": "detector armed",
+      "ok": true
+    },
+    {
+      "name": "menu 6 → focus 2",
+      "ok": true,
+      "focus": 1,
+      "inputs": [
+        6
+      ]
+    },
+    {
+      "name": "menu 4 → focus 1",
+      "ok": true,
+      "focus": 0
+    },
+    {
+      "name": "menu 6 → focus 2 (level 2 unlocked)",
+      "ok": true
+    },
+    {
+      "name": "level calibration overlay",
+      "ok": true
+    },
+    {
+      "name": "level started",
+      "ok": true,
+      "msg": "請站在 5 號休息區，不要踩踏地墊… 0 秒"
+    },
+    {
+      "name": "detector armed in level",
+      "ok": true
+    },
+    {
+      "name": "7 zoom in",
+      "ok": true,
+      "before": "1X",
+      "after": "2X"
+    },
+    {
+      "name": "6 move right",
+      "ok": true,
+      "before": "格點 10,10 / 20",
+      "after": "格點 11,10 / 20"
+    },
+    {
+      "name": "1+7 together → scope 10X",
+      "ok": true,
+      "device": "單筒望遠鏡 · 1+7 換裝置",
+      "zoom": "10X",
+      "inputs": [
+        7,
+        1
+      ]
+    },
+    {
+      "name": "1 then 7 (+150ms) → phone 1X",
+      "ok": true,
+      "device": "手機 · 1+7 換裝置",
+      "zoom": "1X",
+      "inputs": [
+        "conflict:1,7"
+      ]
+    },
+    {
+      "name": "7 alone still zooms in",
+      "ok": true,
+      "before": "1X",
+      "after": "2X"
+    },
+    {
+      "name": "3 exit dialog",
+      "ok": true,
+      "title": "退出關卡"
+    },
+    {
+      "name": "9 back to menu",
+      "ok": true
+    }
+  ],
+  "inputs": [
+    "conflict:1,7",
+    7,
+    3,
+    9
+  ],
+  "conflicts": 1
+}

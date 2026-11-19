@@ -1,0 +1,113 @@
+
+{
+  "ok": true,
+  "summary": {
+    "fullLevel": "8/8",
+    "minus10dB": "6/8",
+    "falseTriggersOnBackground": "-"
+  },
+  "results": {
+    "1@0dB": "1",
+    "2@0dB": "2",
+    "3@0dB": "3",
+    "4@0dB": "4",
+    "6@0dB": "6",
+    "7@0dB": "7",
+    "8@0dB": "8",
+    "9@0dB": "9",
+    "1@-10dB": "1",
+    "2@-10dB": "2",
+    "3@-10dB": "3,3",
+    "4@-10dB": "4",
+    "6@-10dB": "6",
+    "7@-10dB": "7",
+    "8@-10dB": "8",
+    "9@-10dB": "9,9",
+    "environment-only": "-"
+  },
+  "channels": [
+    {
+      "position": 1,
+      "frequency": 18000,
+      "mode": "manual",
+      "multiplier": 4,
+      "backgroundDb": -121.1
+    },
+    {
+      "position": 2,
+      "frequency": 18810,
+      "mode": "custom",
+      "multiplier": 512.17,
+      "backgroundDb": -121.1
+    },
+    {
+      "position": 3,
+      "frequency": 19500,
+      "mode": "manual",
+      "multiplier": 4,
+      "backgroundDb": -120.3
+    },
+    {
+      "position": 4,
+      "frequency": 20000,
+      "mode": "manual",
+      "multiplier": 4,
+      "backgroundDb": -120.3
+    },
+    {
+      "position": 6,
+      "frequency": 21000,
+      "mode": "custom",
+      "multiplier": 673.81,
+      "backgroundDb": -118.2
+    },
+    {
+      "position": 7,
+      "frequency": 22990,
+      "mode": "custom",
+      "multiplier": 38.35,
+      "backgroundDb": -121.6
+    },
+    {
+      "position": 8,
+      "frequency": 22000,
+      "mode": "custom",
+      "multiplier": 276.67,
+      "backgroundDb": -119.2
+    },
+    {
+      "position": 9,
+      "frequency": 21500,
+      "mode": "custom",
+      "multiplier": 170.47,
+      "backgroundDb": -118.2
+    }
+  ],
+  "suggestions": [
+    "1 左上・縮小 ✓ 通過 37.8 dB 14.1 dB 已校正（手動閾值）",
+    "2 上・上移 ✓ 通過 30.8 dB 7.4 dB 已校正（自訂倍率）",
+    "3 右上・退出 ✓ 通過 43.9 dB 19.7 dB 已校正（手動閾值）",
+    "4 左・左移 ✓ 通過 59.6 dB 43.1 dB 已校正（手動閾值）",
+    "6 右・右移 ✓ 通過 39.6 dB 22.7 dB 已校正（自訂倍率）",
+    "7 左下・放大 ✓ 通過 18.1 dB 4.5 dB 已校正（自訂倍率）",
+    "8 下・下移 ✓ 通過 34.9 dB 21.0 dB 已校正（自訂倍率）",
+    "9 右下・攝影 ✓ 通過 31.6 dB 18.5 dB 已校正（自訂倍率）"
+  ],
+  "log": [
+    {
+      "step": "background",
+      "ok": true,
+      "msg": "聽到的是 2 號，請踩 1 號（左上）"
+    },
+    {
+      "step": "guided",
+      "ok": true,
+      "calibrated": 8,
+      "msg": "完成：8 格都已套用。試踩任一格，亮起表示可用；按 3 返回選單。"
+    },
+    {
+      "step": "armed",
+      "ok": true
+    }
+  ]
+}

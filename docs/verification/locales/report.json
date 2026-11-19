@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-07",
+  "ok": false,
+  "checks": [
+    {
+      "name": "unexpected verification error",
+      "ok": false,
+      "error": "Error: ERR_FAILED (-2) loading 'app://birdview-locales/index.html'\n    at rejectAndCleanup (node:electron/js2c/browser_init:2:79953)\n    at finishListener (node:electron/js2c/browser_init:2:80115)\n    at WebContents.stopLoadingListener (node:electron/js2c/browser_init:2:80502)\n    at WebContents.emit (node:events:519:28)"
+    }
+  ],
+  "hardwareAcceptance": "UNTESTED"
+}

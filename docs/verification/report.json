@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-11",
+  "sourceRelease": "0.4.5",
+  "ok": true,
+  "results": {
+    "soundscape": {
+      "ok": true,
+      "evidence": "soundscape.json",
+      "checks": 23
+    },
+    "audio": {
+      "ok": true,
+      "evidence": "audio.json",
+      "checks": 3
+    },
+    "game": {
+      "ok": true,
+      "evidence": "game.json",
+      "checks": 17
+    },
+    "ui": {
+      "ok": true,
+      "evidence": "ui.json",
+      "checks": 15
+    },
+    "levels": {
+      "ok": true,
+      "evidence": "levels.json",
+      "checks": 10
+    },
+    "agent": {
+      "ok": true,
+      "evidence": "agent.json",
+      "checks": 0
+    }
+  },
+  "audioSummary": {
+    "fullLevel": "8/8",
+    "minus10dB": "6/8",
+    "falseTriggersOnBackground": "-"
+  },
+  "limitations": [
+    "Physical ultrasonic mat and Android microphones were not tested.",
+    "Minus-10-dB diagnostic achieved correct single triggering on 6/8 channels; some weak-signal channels repeated.",
+    "Existing Windows EXE and Android APK were not rebuilt.",
+    "Historical AI model versions and agent IDs are incomplete; attributions follow retained files only."
+  ],
+  "productionStage": "build/web contains the updated source, field calls and credits; reference test WAVs removed after tests.",
+  "assetHashes": "All five original and derivative SHA-256 values verified.",
+  "documentLinks": "All relative development-report, credits and demo links resolve."
+}

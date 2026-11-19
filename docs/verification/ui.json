@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "name": "offline Mermaid 3 diagrams",
+      "ok": true
+    },
+    {
+      "name": "default Traditional Chinese",
+      "ok": true
+    },
+    {
+      "name": "English switch rerenders diagrams",
+      "ok": true
+    },
+    {
+      "name": "English hides Chinese text",
+      "ok": true
+    },
+    {
+      "name": "language preference persists",
+      "ok": true
+    },
+    {
+      "name": "mobile has no page overflow",
+      "ok": true
+    },
+    {
+      "name": "portable demo renders both views",
+      "ok": true
+    },
+    {
+      "name": "single target capture collects square",
+      "ok": true
+    },
+    {
+      "name": "keyboard moves camera",
+      "ok": true
+    },
+    {
+      "name": "zoom uses buffered input",
+      "ok": true
+    },
+    {
+      "name": "1+7 chord switches to scope",
+      "ok": true
+    },
+    {
+      "name": "foot-compatible exit",
+      "ok": true
+    },
+    {
+      "name": "9 restarts from menu",
+      "ok": true
+    },
+    {
+      "name": "portable protocol resolves",
+      "ok": true
+    },
+    {
+      "name": "no renderer console errors",
+      "ok": true,
+      "errors": []
+    }
+  ],
+  "physicalHardware": "UNTESTED"
+}

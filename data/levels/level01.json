@@ -1,0 +1,89 @@
+{
+  "id": 1,
+  "title": "公園賞鳥",
+  "subtitle": "大安森林公園",
+  "scene": "scenes/park.png",
+  "zoomMode": "stepped",
+  "devices": [
+    "phone"
+  ],
+  "requiredSpecies": 5,
+  "consecutiveDaysUnlock": 3,
+  "reward": "scope",
+  "rewardText": "恭喜！你獲得了一支 10–20 倍單筒賞鳥望遠鏡，下一關同時按 1＋7 可切換使用。",
+  "intro": "公園裡有 8 種常見鳥類。用 2468 移動視野、7/1 變焦，找到並拍下至少 5 種鳥。",
+  "birds": [
+    {
+      "species": "light-vented-bulbul",
+      "x": 0.2279,
+      "y": 0.1441,
+      "scale": 0.0235,
+      "art": "cutout",
+      "flip": false,
+      "hint": "樹冠枝條"
+    },
+    {
+      "species": "taiwan-barbet",
+      "x": 0.3785,
+      "y": 0.5021,
+      "scale": 0.018,
+      "art": "cutout",
+      "flip": true,
+      "hint": "斜伸的樹枝"
+    },
+    {
+      "species": "swinhoes-white-eye",
+      "x": 0.6975,
+      "y": 0.4617,
+      "scale": 0.0152,
+      "art": "cutout",
+      "flip": false,
+      "hint": "涼亭旁的樹叢"
+    },
+    {
+      "species": "oriental-magpie",
+      "x": 0.2279,
+      "y": 0.5502,
+      "scale": 0.0345,
+      "art": "cutout",
+      "flip": true,
+      "hint": "灌木與草地交界"
+    },
+    {
+      "species": "eurasian-tree-sparrow",
+      "x": 0.1243,
+      "y": 0.6187,
+      "scale": 0.0207,
+      "art": "cutout",
+      "flip": false,
+      "hint": "步道上"
+    },
+    {
+      "species": "spotted-dove",
+      "x": 0.2776,
+      "y": 0.6623,
+      "scale": 0.0318,
+      "art": "cutout",
+      "flip": true,
+      "hint": "池邊大石頭"
+    },
+    {
+      "species": "black-crowned-night-heron",
+      "x": 0.3605,
+      "y": 0.6155,
+      "scale": 0.0359,
+      "art": "cutout",
+      "flip": false,
+      "hint": "水邊石塊"
+    },
+    {
+      "species": "little-egret",
+      "x": 0.625,
+      "y": 0.628,
+      "scale": 0.0387,
+      "art": "cutout",
+      "flip": true,
+      "hint": "淺水區"
+    }
+  ]
+}
