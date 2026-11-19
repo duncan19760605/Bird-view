@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2026 duncan19760605
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+
+Third-party content in this repository is NOT covered by the MIT license above
+and keeps its own license:
+
+- assets/bird-calls/  Bird-call recordings (and the processed versions derived
+  from them) are licensed CC BY-SA 3.0 or CC BY-SA 4.0 as listed per file in
+  assets/bird-calls/CREDITS.html and assets/bird-calls/manifest.json.
+  Reuse must credit the original authors and share adaptations under the same
+  license.
+- docs/vendor/mermaid.min.js  Mermaid, MIT License (see
+  docs/vendor/mermaid-LICENSE.txt).
+- "MotionPad" is a trademark/product of Genius Holdings Co., Ltd.; it is used
+  only to indicate compatibility with the MotionPad floor mat.
