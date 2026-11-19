@@ -8,7 +8,10 @@
 | Windows v0.4.6 | `release/BirdView-Setup-v0.4.6.exe`（安裝後桌面捷徑「走，賞鳥趣」） |
 | Android v0.4.6 | `release/BirdView-v0.4.6.apk`（橫向全螢幕，觸控九宮格＋麥克風） |
 
-**下載**：安裝檔請到 GitHub 的 [Releases](https://github.com/duncan19760605/Bird-view/releases) 下載（版本庫不含 `.exe`／`.apk`）。
+**下載**：
+- 版本庫的 [`release/`](release/) 資料夾：`BirdView-Setup-v0.4.6-windows.zip`、`BirdView-v0.4.6-android.zip`（以 Git LFS 儲存，解壓後即為安裝檔與版本說明）。
+- 或 GitHub 的 [Releases](https://github.com/duncan19760605/Bird-view/releases) 頁直接下載 `.exe`／`.apk`。
+- 版本庫本身不放未壓縮的 `.exe`／`.apk`；clone 時若要取得 zip 實體檔，需先安裝 [Git LFS](https://git-lfs.com/)。
 版本庫也不含原始拼圖 `photo/`、插畫原檔 `assets/pencil-cartoon/` 與簽章金鑰；遊戲實際使用的素材都在 `assets/` 內，clone 後即可執行。
 
 v0.3：10 關皆加入完整彩繪鉛筆素材、每關 MIDI 配樂與可關閉的分關鳥鳴音景；保留並強化超聲波地墊校正流程。
