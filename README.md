@@ -1,7 +1,7 @@
 # 走，賞鳥趣
 
 九宮格（12346789）操控的賞鳥遊戲。純前端靜態專案（ES Modules），16:9 橫幅，適用手機／平板／電視。
-可用鍵盤、滑鼠／觸控，或踩**九宮格地墊**（地墊發出超聲波，由麥克風接收）操作。
+可用鍵盤、滑鼠／觸控，或踩**九宮格地墊**操作。地墊為 Genius Holdings 的 [MotionPad](https://motionpad.genius-gh.com/zh-hant) 硬體，本遊戲相容 MotionPad 地墊：踩踏時地墊發出超聲波，由裝置麥克風接收。
 
 | 版本 | 檔案 |
 |---|---|
@@ -26,7 +26,7 @@ v0.4.6：更正 7、9 號超聲波頻率（7＝21500 Hz、9＝22990 Hz，原本�
 
 - 新增五種開放授權實錄鳥鳴：麻雀、白頭翁、珠頸斑鳩、黑翅長腳鷸、煤山雀；依關卡鳥種選播，十關均有匹配。音量沿用鳥鳴滑桿，靜音／退出停止播放，載入失敗使用合成音。來源、作者、CC BY-SA 授權、處理與 hash 見 [鳥鳴授權頁](assets/bird-calls/CREDITS.html) 與 [manifest](assets/bird-calls/manifest.json)。
 - [bird-view-development.html](bird-view-development.html)：繁體中文／英文切換，SVG／離線 Mermaid，整理玩法、架構、開發證據、多 AI 協作、提示詞、收音設備及遊戲延伸。
-- [MotionPad-STEM-Agent](MotionPad-STEM-Agent/README.md)：可供不同 coding agent 使用的指引、skill、收音／鏡頭模組快照、STEM 範例及驗證工具。
+- `MotionPad-STEM-Agent/`：可供不同 coding agent 使用的指引、skill、收音／鏡頭模組快照、STEM 範例及驗證工具（僅保存在開發者本機，不在公開版本庫中）。
 - 修正第 1–3 關仍指示「按 5 換望遠鏡」的舊提示，改為同時按 1＋7。
 
 本次更新未重建既有 EXE／APK。執行原始碼可使用新鳥鳴；Electron 開發版需先重新 stage。驗證結果見 [report.json](docs/verification/report.json)：音景 23 項、文件／STEM UI 15 項、十關檢查、既有音訊與遊戲模擬通過。−10 dB 低訊號診斷僅 6／8 格單次正確觸發；真地墊與 Android 麥克風仍需現場驗收。
@@ -71,9 +71,12 @@ Android 的返回鍵等於 3。
 
 ## 地墊超聲波控制（麥克風）
 
-實體控制器是 3×3 地墊：踩下 1–4、6–9 號格會發出各自的超聲波頻率，**5 號是休息區，沒有頻率、不產生任何事件**；
-切換裝置是**雙腳同時踩 1 和 7**。收音與校正依 `motionpad-game-creator` 的
-`motionpad-audio-receiver` 規則實作：
+實體控制器是 Genius Holdings 的 **MotionPad 九宮格地墊**（官網：<https://motionpad.genius-gh.com/zh-hant>）。
+本遊戲不需要連線或安裝驅動程式：地墊每一格被踩下時發出各自的超聲波頻率，手機、平板或電腦的麥克風收音後由遊戲判斷踩到哪一格。
+
+3×3 地墊：踩下 1–4、6–9 號格會發出各自的超聲波頻率，**5 號是休息區，沒有頻率、不產生任何事件**；
+切換裝置是**雙腳同時踩 1 和 7**。收音與校正依 MotionPad 創作者工具包中 `motionpad-audio-receiver` 的規則實作
+（工具包受授權限制，不在本版本庫中）：
 
 | 位置 | 1 左上 | 2 上 | 3 右上 | 4 左 | 6 右 | 7 左下 | 8 下 | 9 右下 |
 |---|---|---|---|---|---|---|---|---|
