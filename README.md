@@ -307,7 +307,7 @@ APK 在 `android-app/android/app/build/outputs/apk/release/app-release.apk`，�
 | 鳥鳴錄音 `assets/bird-calls/`（含剪輯處理後的版本） | CC BY-SA 3.0／4.0，依各檔標示；作者與來源見 [CREDITS.html](assets/bird-calls/CREDITS.html) 與 [manifest.json](assets/bird-calls/manifest.json)。再利用時須標示原作者，改作也須以相同授權釋出 |
 | `docs/vendor/mermaid.min.js` | Mermaid，MIT（見 `docs/vendor/mermaid-LICENSE.txt`） |
 
-「MotionPad」為 Genius Holdings 的產品名稱，本專案只用來表示「相容於 MotionPad 地墊」。
+「MotionPad」為 Genius Holdings 的產品名稱，本專案只用來表示「相容於 MotionPad 地墊」。第三方內容的完整說明見 [NOTICE.md](NOTICE.md)。
 
 `data/birds.json` 每一種鳥都保留 `photographer` / `signature` / `license` / `gps` / `exif` 欄位，圖鑑詳情頁會顯示；目前 AI 生成的圖標為 `source: "ai-generated"`。與賞鳥社團或拍鳥專家取得授權後，把攝影者、簽名檔、GPS 與攝影參數填入即可，不需要改程式。
 
